@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SAVA CLINIC AI Assistant</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        /* SAVA CLINIC Renk Paleti (Yeni Mavi Tonları) */
+        :root {
+            --sava-darkblue: #013B80; /* Koyu Mavi */
+            --sava-lightblue: #2A8FCE; /* Açık Mavi */
+            --sava-lightblue-darker: #1e71a4; /* Hover Rengi */
+            --sava-gray-text: #374151; /* Metin Rengi */
+            --sava-light-gray-bg: #f9fafb; /* Dış Arka Plan Rengi */
+            --sava-bubble-bg: #f0f8ff; /* Asistan Mesajı Arka Planı (Çok açık mavi/beyaz tonu) */
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--sava-light-gray-bg); /* Çok Açık Gri Dış Arka Plan */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            padding: 1rem;
+            box-sizing: border-box;
+        }
+        .chat-container {
+            width: 100%;
+            max-width: 500px;
+            background-color: white;
+            border-radius: 1.25rem; /* Daha yuvarlak köşe */
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.1);
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+            max-height: 90vh;
+        }
+        .chat-header {
+            padding: 1.5rem;
+            background-color: var(--sava-darkblue); /* Koyu Mavi Başlık */
+            border-bottom: 1px solid #e5e7eb;
+            text-align: center;
+            color: white;
+        }
+        .messages {
+            flex-grow: 1;
+            padding: 1.5rem;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+        .message-bubble {
+            max-width: 80%;
+            padding: 0.85rem 1.1rem; /* Biraz daha büyük bubble */
+            border-radius: 1rem;
+            line-height: 1.4;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+        }
+        .user-message {
+            align-self: flex-end;
+            background-color: var(--sava-lightblue); /* Açık Mavi Kullanıcı Mesajı */
+            color: white;
+            border-bottom-right-radius: 0.25rem; /* Hafif kırık köşe */
+        }
+        .assistant-message {
+            align-self: flex-start;
+            background-color: var(--sava-bubble-bg); /* Çok Açık Mavi Asistan Mesajı */
+            color: var(--sava-gray-text);
+            border-bottom-left-radius: 0.25rem; /* Hafif kırık köşe */
+        }
+        .input-area {
+            display: flex;
+            padding: 1.5rem;
+            border-top: 1px solid #e5e7eb;
+            background-color: #ffffff;
+            gap: 0.5rem; /* Boşluğu artır */
+        }
+        .input-area input {
+            flex-grow: 1;
+            padding: 0.85rem 1rem;
+            border: 2px solid #d1d5db;
+            border-radius: 0.75rem;
+            transition: border-color 0.2s;
+        }
+        .input-area input:focus {
+            outline: none;
+            border-color: var(--sava-lightblue); /* Odaklandığında Açık Mavi çerçeve */
+        }
+        .input-area button {
+            background-color: var(--sava-darkblue); /* Koyu Mavi Gönder Butonu */
+            color: white;
+            padding: 0.75rem 1.5rem;
+            border-radius: 0.75rem;
+            transition: background-color 0.2s, opacity 0.2s;
+        }
+        .input-area button:hover:not(:disabled) {
+            background-color: var(--sava-lightblue-darker); /* Hoverda Açık Mavi Tonu */
+        }
+        .input-area button:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+        }
+        .source-link {
+            display: block;
+            font-size: 0.75rem;
+            color: var(--sava-darkblue); /* Kaynak linki Koyu Mavi */
+            margin-top: 0.5rem;
+            word-break: break-all;
+        }
+        .source-link:hover {
+            color: var(--sava-lightblue);
+        }
+        .loading-dots {
+            display: inline-block;
+            margin-left: 0.5rem;
+        }
+        .loading-dots span {
+            display: inline-block;
+            width: 8px;
+            height: 8px;
+            margin: 0 1px;
+            background-color: var(--sava-darkblue); /* Loading Mavi noktalar */
+            border-radius: 50%;
+            animation: bounce 1.4s infinite ease-in-out both;
+        }
+        .loading-dots span:nth-child(1) { animation-delay: -0.32s; }
+        .loading-dots span:nth-child(2) { animation-delay: -0.16s; }
+        @keyframes bounce {
+            0%, 80%, 100% { transform: scale(0); }
+            40% { transform: scale(1.0); }
+        }
+    </style>
+</head>
+<body>
+
+<div class="chat-container">
+    <div class="chat-header">
+        <h1 class="text-xl font-bold">SAVA CLINIC AI Assistant</h1>
+    </div>
+
+    <div class="messages" id="messages">
+        <!-- Başlangıç Mesajı -->
+        <div class="assistant-message message-bubble">
+            Hello! I am SAVA CLINIC's expert health assistant. Please ask a question about our health services.
+        </div>
+    </div>
+
+    <div class="input-area">
+        <input type="text" id="queryInput" placeholder="Ask your question here..." onkeydown="handleKey(event)">
+        <button id="sendButton" onclick="sendMessage()">Send</button>
+    </div>
+</div>
+
+<script>
+    // KRİTİK DÜZELTME: API_URL'i kaldırın ve göreli yollar kullanın.
+    // Bu, tarayıcının hangi IP'de açılmış olursa olsun (127.0.0.1 veya 192.168.x.x)
+    // API çağrılarının aynı sunucuya gitmesini sağlar.
+    const CHAT_ENDPOINT = '/chat';
+    const LOG_ENDPOINT = '/log_query';
+
+    const messagesContainer = document.getElementById('messages');
+    const queryInput = document.getElementById('queryInput');
+    const sendButton = document.getElementById('sendButton');
+    let isWaitingForResponse = false;
+
+    // Otomatik aşağı kaydırma
+    function scrollToBottom() {
+        messagesContainer.scrollTop = messagesContainer.scrollHeight;
+    }
+
+    // Mesaj baloncuğu oluşturma
+    function createMessage(text, type, sources = []) {
+        const bubble = document.createElement('div');
+        bubble.className = `message-bubble ${type}-message`;
+
+        const textContent = document.createElement('p');
+        // Metin içeriğini Markdown'dan basit HTML'e dönüştür (örneğin **kalın** için)
+        // Burada basit bir regex ile kalınlaştırma yapıyoruz.
+        textContent.innerHTML = text.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+        bubble.appendChild(textContent);
+
+        // KAYNAK GÖSTERİMİ
+        if (sources.length > 0) {
+            const sourcesDiv = document.createElement('div');
+            sourcesDiv.className = 'mt-3 text-xs opacity-90';
+            sourcesDiv.innerHTML = '<strong>Sources:</strong>';
+
+            const sourceList = document.createElement('ul');
+            sourceList.className = 'list-disc list-inside mt-1 ml-2';
+
+            sources.forEach(source => {
+                const listItem = document.createElement('li');
+                const link = document.createElement('a');
+                link.href = source.url;
+                link.target = '_blank';
+                link.className = 'source-link underline hover:opacity-100';
+                link.textContent = source.url;
+                listItem.appendChild(link);
+                sourceList.appendChild(listItem);
+            });
+
+            sourcesDiv.appendChild(sourceList);
+            bubble.appendChild(sourcesDiv);
+        }
+
+        messagesContainer.appendChild(bubble);
+        scrollToBottom();
+    }
+
+    // Yükleniyor... göstergesini ekleme
+    function addLoadingIndicator() {
+        const loadingBubble = document.createElement('div');
+        loadingBubble.id = 'loadingIndicator';
+        loadingBubble.className = 'assistant-message message-bubble';
+        loadingBubble.innerHTML = `
+            <span class="text-gray-500">Typing...</span>
+            <div class="loading-dots">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        `;
+        messagesContainer.appendChild(loadingBubble);
+        scrollToBottom();
+    }
+
+    // Yükleniyor... göstergesini kaldırma
+    function removeLoadingIndicator() {
+        const loading = document.getElementById('loadingIndicator');
+        if (loading) {
+            loading.remove();
+        }
+    }
+
+    // Enter tuşunu işleme
+    function handleKey(event) {
+        if (event.key === 'Enter' && !isWaitingForResponse) {
+            sendMessage();
+        }
+    }
+
+    async function sendMessage() {
+        const query = queryInput.value.trim();
+        if (!query || isWaitingForResponse) return;
+
+        isWaitingForResponse = true;
+        queryInput.value = '';
+        sendButton.disabled = true;
+
+        // Kullanıcı mesajını ekle
+        createMessage(query, 'user');
+        addLoadingIndicator();
+
+        try {
+            // GÖRELİ URL KULLANIMI: '/chat'
+            const response = await fetch(CHAT_ENDPOINT, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ query: query })
+            });
+
+            const data = await response.json();
+
+            // Loglama için sunucuya gönder
+            // GÖRELİ URL KULLANIMI: '/log_query'
+            fetch(LOG_ENDPOINT, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ query: query, status: response.ok ? 'SUCCESS' : 'ERROR', response: data.response })
+            });
+
+            removeLoadingIndicator();
+
+            if (response.ok) {
+                // LLM yanıtını ve kaynakları ekle
+                createMessage(data.response, 'assistant', data.sources);
+            } else {
+                // Sunucu tarafından dönen hata mesajını göster
+                createMessage(`Error: ${data.response || 'Sunucu tarafında bilinmeyen bir hata oluştu.'}`, 'assistant');
+            }
+
+        } catch (error) {
+            console.error('Fetch error:', error);
+            removeLoadingIndicator();
+            // Hata mesajını, sorunun çözümünü işaret edecek şekilde güncelledik.
+            createMessage(`Error: Ağ hatası veya sunucu bağlantısı sorunu. Flask uygulaması çalışıyor mu ve aynı ağda mısınız?`, 'assistant');
+        } finally {
+            isWaitingForResponse = false;
+            sendButton.disabled = false;
+            queryInput.focus();
+        }
+    }
+</script>
+
+</body>
+</html>

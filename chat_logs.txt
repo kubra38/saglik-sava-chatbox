@@ -1,0 +1,1147 @@
+2025-11-10 07:53:03,239 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-10 07:53:03,332 - INFO - RAG sistemi (Chroma ve Prompt Zinciri) başarıyla yüklendi.
+2025-11-10 07:54:49,684 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-10 07:54:49,735 - INFO - RAG sistemi (Chroma ve Prompt Zinciri) başarıyla yüklendi.
+2025-11-10 08:00:22,429 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-10 08:00:22,466 - INFO - RAG sistemi (Chroma ve Prompt Zinciri) başarıyla yüklendi.
+2025-11-10 08:03:40,344 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-10 08:03:40,394 - INFO - RAG sistemi (Chroma ve Prompt Zinciri) başarıyla yüklendi.
+2025-11-10 08:03:40,421 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.129:5001
+2025-11-10 08:03:40,421 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-10 08:03:50,224 - INFO - 127.0.0.1 - - [10/Nov/2025 08:03:50] "GET / HTTP/1.1" 200 -
+2025-11-10 08:03:50,679 - INFO - 127.0.0.1 - - [10/Nov/2025 08:03:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-10 08:05:10,174 - INFO - 127.0.0.1 - - [10/Nov/2025 08:05:10] "GET / HTTP/1.1" 200 -
+2025-11-10 08:05:10,739 - INFO - 127.0.0.1 - - [10/Nov/2025 08:05:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-10 08:08:10,882 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-10 08:08:10,930 - INFO - RAG sistemi (Chroma ve Prompt Zinciri) başarıyla yüklendi.
+2025-11-10 08:08:10,966 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.129:5001
+2025-11-10 08:08:10,967 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-10 08:08:23,054 - INFO - 127.0.0.1 - - [10/Nov/2025 08:08:23] "GET / HTTP/1.1" 200 -
+2025-11-10 08:11:00,672 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-10 08:11:00,710 - INFO - RAG sistemi (Chroma ve Prompt Zinciri) başarıyla yüklendi.
+2025-11-10 08:11:00,728 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.129:5001
+2025-11-10 08:11:00,729 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-10 08:11:16,248 - INFO - 127.0.0.1 - - [10/Nov/2025 08:11:16] "GET / HTTP/1.1" 200 -
+2025-11-10 08:11:19,482 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 08:11:19,482 - INFO - Kullanıcı Sorgusu: 'What is Obesity Surgery'
+2025-11-10 08:11:19,756 - INFO - Dil tespit edildi: en
+2025-11-10 08:11:19,764 - ERROR - Sorgu işlenirken beklenmeyen hata oluştu: 'VectorStoreRetriever' object has no attribute 'get_relevant_documents'
+2025-11-10 08:11:19,764 - INFO - 127.0.0.1 - - [10/Nov/2025 08:11:19] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2025-11-10 08:14:37,245 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-10 08:14:37,294 - INFO - RAG sistemi (Chroma ve Prompt Zinciri) başarıyla yüklendi.
+2025-11-10 08:14:37,319 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.129:5001
+2025-11-10 08:14:37,319 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-10 08:14:47,010 - INFO - 127.0.0.1 - - [10/Nov/2025 08:14:47] "GET / HTTP/1.1" 200 -
+2025-11-10 08:14:49,642 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 08:14:49,643 - INFO - Kullanıcı Sorgusu: 'What is Obesity Surgery'
+2025-11-10 08:14:49,932 - INFO - Dil tespit edildi: en
+2025-11-10 08:14:49,932 - ERROR - Sorgu işlenirken beklenmeyen kritik hata oluştu: 'VectorStoreRetriever' object has no attribute 'get_relevant_documents'
+2025-11-10 08:14:49,933 - INFO - 127.0.0.1 - - [10/Nov/2025 08:14:49] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2025-11-10 08:14:52,895 - INFO - 127.0.0.1 - - [10/Nov/2025 08:14:52] "GET / HTTP/1.1" 200 -
+2025-11-10 08:14:55,679 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 08:14:55,680 - INFO - Kullanıcı Sorgusu: 'What is Obesity Surgery'
+2025-11-10 08:14:55,692 - INFO - Dil tespit edildi: en
+2025-11-10 08:14:55,693 - ERROR - Sorgu işlenirken beklenmeyen kritik hata oluştu: 'VectorStoreRetriever' object has no attribute 'get_relevant_documents'
+2025-11-10 08:14:55,695 - INFO - 127.0.0.1 - - [10/Nov/2025 08:14:55] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2025-11-10 08:21:11,991 - INFO - RAG sistemi başlatılıyor... Gömme Modeli: text-embedding-004
+2025-11-10 08:21:12,229 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-10 08:21:12,265 - INFO - Chroma Veritabanı başarıyla yüklendi.
+2025-11-10 08:21:12,267 - INFO - RAG zinciri başarıyla oluşturuldu.
+2025-11-10 08:21:12,301 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.129:5001
+2025-11-10 08:21:12,301 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-10 08:21:15,754 - INFO - 127.0.0.1 - - [10/Nov/2025 08:21:15] "GET / HTTP/1.1" 200 -
+2025-11-10 08:21:28,013 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 08:21:28,013 - INFO - Kullanıcı Sorgusu: 'What is Obesity Surgery'
+2025-11-10 08:21:28,297 - INFO - Dil tespit edildi: en
+2025-11-10 08:21:28,297 - ERROR - Sorgu işlenirken beklenmeyen kritik hata oluştu: 'VectorStoreRetriever' object has no attribute 'get_relevant_documents'
+2025-11-10 08:21:28,297 - INFO - 127.0.0.1 - - [10/Nov/2025 08:21:28] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2025-11-10 08:26:51,754 - INFO - RAG sistemi başlatılıyor... Gömme Modeli: text-embedding-004
+2025-11-10 08:26:52,015 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-10 08:26:52,050 - INFO - Chroma Veritabanı başarıyla yüklendi.
+2025-11-10 08:26:52,052 - INFO - RAG zinciri başarıyla oluşturuldu.
+2025-11-10 08:26:52,076 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.129:5001
+2025-11-10 08:26:52,076 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-10 08:27:04,017 - INFO - 127.0.0.1 - - [10/Nov/2025 08:27:04] "GET / HTTP/1.1" 200 -
+2025-11-10 08:27:06,176 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 08:27:06,177 - INFO - Kullanıcı Sorgusu: 'What is Obesity Surgery'
+2025-11-10 08:27:06,460 - INFO - Dil tespit edildi: en
+2025-11-10 08:27:06,461 - ERROR - Sorgu işlenirken beklenmeyen kritik hata oluştu: 'VectorStoreRetriever' object has no attribute 'get_relevant_documents'
+2025-11-10 08:27:06,461 - INFO - 127.0.0.1 - - [10/Nov/2025 08:27:06] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2025-11-10 08:30:30,405 - INFO - RAG sistemi başlatılıyor... Gömme Modeli: text-embedding-004
+2025-11-10 08:30:30,660 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-10 08:30:30,697 - INFO - Chroma Veritabanı başarıyla yüklendi.
+2025-11-10 08:30:30,699 - INFO - RAG zinciri başarıyla oluşturuldu.
+2025-11-10 08:30:30,714 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.129:5001
+2025-11-10 08:30:30,714 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-10 08:30:44,907 - INFO - 127.0.0.1 - - [10/Nov/2025 08:30:44] "GET / HTTP/1.1" 200 -
+2025-11-10 08:30:47,437 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 08:30:47,437 - INFO - Kullanıcı Sorgusu: 'What is Obesity Surgery'
+2025-11-10 08:30:47,748 - INFO - Dil tespit edildi: en
+2025-11-10 08:30:47,749 - ERROR - Sorgu işlenirken beklenmeyen kritik hata oluştu: 'VectorStoreRetriever' object has no attribute 'get_relevant_documents'
+2025-11-10 08:30:47,749 - INFO - 127.0.0.1 - - [10/Nov/2025 08:30:47] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2025-11-10 08:30:51,322 - INFO - 127.0.0.1 - - [10/Nov/2025 08:30:51] "GET / HTTP/1.1" 200 -
+2025-11-10 08:30:53,705 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 08:30:53,706 - INFO - Kullanıcı Sorgusu: 'What is Obesity Surgery'
+2025-11-10 08:30:53,727 - INFO - Dil tespit edildi: en
+2025-11-10 08:30:53,729 - ERROR - Sorgu işlenirken beklenmeyen kritik hata oluştu: 'VectorStoreRetriever' object has no attribute 'get_relevant_documents'
+2025-11-10 08:30:53,730 - INFO - 127.0.0.1 - - [10/Nov/2025 08:30:53] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2025-11-10 08:33:37,215 - INFO - RAG sistemi başlatılıyor... Gömme Modeli: text-embedding-004
+2025-11-10 08:33:37,448 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-10 08:33:37,483 - INFO - Chroma Veritabanı başarıyla yüklendi.
+2025-11-10 08:33:37,485 - INFO - RAG zinciri başarıyla oluşturuldu.
+2025-11-10 08:33:37,510 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.129:5001
+2025-11-10 08:33:37,510 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-10 08:34:00,424 - INFO - 127.0.0.1 - - [10/Nov/2025 08:34:00] "GET / HTTP/1.1" 200 -
+2025-11-10 08:34:03,449 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 08:34:03,450 - INFO - Kullanıcı Sorgusu: 'What is Obesity Surgery'
+2025-11-10 08:34:03,720 - INFO - Dil tespit edildi: en
+2025-11-10 08:34:06,162 - INFO - AI Yanıtı: 'Obesity surgery, also known as bariatric surgery, involves surgical interventions that are particularly effective in combating obesity and reducing health problems caused by overweight. These surgeries function by making changes to the structure of digestive system organs like the stomach and small intestine. The goals are to increase the feeling of satiety, ensure less food intake, and reduce nutrient absorption, which helps patients eat less, lose weight, and prevent obesity-related health problems. It offers a permanent and effective solution in the fight against obesity, improving patients' quality of life.'
+2025-11-10 08:34:06,164 - INFO - 127.0.0.1 - - [10/Nov/2025 08:34:06] "POST /chat HTTP/1.1" 200 -
+2025-11-10 08:34:26,236 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 08:34:26,238 - INFO - Kullanıcı Sorgusu: 'Is Obesity Surgery Safe?'
+2025-11-10 08:34:26,248 - INFO - Dil tespit edildi: en
+2025-11-10 08:34:28,220 - INFO - AI Yanıtı: 'Obesity surgery, like any major surgical procedure, carries certain risks. However, it is generally considered safe, especially when performed by experienced surgeons in well-equipped medical facilities. While it does have inherent risks, it is generally safe and effective for individuals with severe obesity, particularly when accompanied by proper medical oversight and patient adherence to post-operative guidelines. The potential benefits in terms of weight loss and improved health outcomes often outweigh the risks.'
+2025-11-10 08:34:28,223 - INFO - 127.0.0.1 - - [10/Nov/2025 08:34:28] "POST /chat HTTP/1.1" 200 -
+2025-11-10 08:34:59,786 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 08:34:59,787 - INFO - Kullanıcı Sorgusu: 'Turkey weight loss surgery'
+2025-11-10 08:34:59,812 - INFO - Dil tespit edildi: en
+2025-11-10 08:35:01,910 - INFO - AI Yanıtı: 'Turkey is a popular destination for weight loss surgery, combining medical excellence with affordability and exceptional hospitality. Sava Clinic offers various slimming surgeries, including gastric sleeve, gastric bypass, and gastric balloon, performed by skilled bariatric surgeons using advanced technology.
+
+Many international patients choose Turkey due to its cost-effectiveness, often up to 70% cheaper compared to the USA or Europe. Comprehensive medical packages, including transport, accommodation, and post-operative care, are also offered.
+
+For more information on the slimming surgery suitable for you, please contact the clinic via their website or WhatsApp.'
+2025-11-10 08:35:01,912 - INFO - 127.0.0.1 - - [10/Nov/2025 08:35:01] "POST /chat HTTP/1.1" 200 -
+2025-11-10 08:37:00,658 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 08:37:00,660 - INFO - Kullanıcı Sorgusu: 'Does Obesity Surgery Work?'
+2025-11-10 08:37:00,668 - INFO - Dil tespit edildi: en
+2025-11-10 08:37:02,846 - INFO - AI Yanıtı: 'Yes, obesity surgery works. The American Society for Metabolic and Bariatric Surgery (ASMBS) reports that studies have found over 90 percent of bariatric surgery patients successfully maintain significant weight loss in the long term, shedding 50 percent or more of their excess body weight. This high success rate underscores the effectiveness of bariatric surgery.'
+2025-11-10 08:37:02,848 - INFO - 127.0.0.1 - - [10/Nov/2025 08:37:02] "POST /chat HTTP/1.1" 200 -
+2025-11-10 08:49:54,002 - INFO - RAG sistemi başlatılıyor... Gömme Modeli: text-embedding-004
+2025-11-10 08:49:54,253 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-10 08:49:54,334 - INFO - Chroma Veritabanı başarıyla yüklendi.
+2025-11-10 08:49:54,335 - INFO - RAG zinciri başarıyla oluşturuldu.
+2025-11-10 08:49:54,353 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.129:5001
+2025-11-10 08:49:54,353 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-10 08:50:07,360 - INFO - 127.0.0.1 - - [10/Nov/2025 08:50:07] "GET / HTTP/1.1" 200 -
+2025-11-10 08:50:09,548 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 08:50:09,548 - INFO - Kullanıcı Sorgusu: 'Turkey weight loss surgery'
+2025-11-10 08:50:09,824 - INFO - Dil tespit edildi: en
+2025-11-10 08:50:12,298 - INFO - AI Yanıtı: 'Turkey is a popular destination for weight loss surgery, combining medical excellence with affordability and exceptional hospitality. Sava Clinic offers various slimming surgeries, including gastric sleeve, gastric bypass, and gastric balloon, performed by skilled bariatric surgeons using advanced technology.
+
+Many international patients choose Turkey due to its cost-effectiveness, often up to 70% cheaper compared to the USA or Europe. Comprehensive medical packages, including transport, accommodation, and post-operative care, are also offered.'
+2025-11-10 08:50:12,299 - INFO - 127.0.0.1 - - [10/Nov/2025 08:50:12] "POST /chat HTTP/1.1" 200 -
+2025-11-10 08:50:33,924 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 08:50:33,925 - INFO - Kullanıcı Sorgusu: 'Is Obesity Surgery Safe?'
+2025-11-10 08:50:33,941 - INFO - Dil tespit edildi: en
+2025-11-10 08:50:35,749 - INFO - AI Yanıtı: 'Obesity surgery, like any major surgical procedure, carries certain risks. However, it is generally considered safe, especially when performed by experienced surgeons in well-equipped medical facilities. While it does have inherent risks, it is generally safe and effective for individuals with severe obesity, particularly when accompanied by proper medical oversight and patient adherence to post-operative guidelines. The potential benefits in terms of weight loss and improved health outcomes often outweigh the risks.'
+2025-11-10 08:50:35,752 - INFO - 127.0.0.1 - - [10/Nov/2025 08:50:35] "POST /chat HTTP/1.1" 200 -
+2025-11-10 08:51:44,767 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 08:51:44,768 - INFO - Kullanıcı Sorgusu: 'What is plastic surgery'
+2025-11-10 08:51:44,774 - INFO - Dil tespit edildi: en
+2025-11-10 08:51:46,132 - INFO - AI Yanıtı: 'Plastic Surgery at SAVA CLINIC is about enhancing your natural beauty with cosmetic surgery to boost your self-confidence.'
+2025-11-10 08:51:46,134 - INFO - 127.0.0.1 - - [10/Nov/2025 08:51:46] "POST /chat HTTP/1.1" 200 -
+2025-11-10 08:52:22,605 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 08:52:22,606 - INFO - Kullanıcı Sorgusu: 'Cost of Plastic Surgery'
+2025-11-10 08:52:22,613 - INFO - Dil tespit edildi: en
+2025-11-10 08:52:25,018 - INFO - AI Yanıtı: 'The cost of breast augmentation can vary significantly depending on factors such as the surgeon’s experience, the geographical location of the practice, and the type of implants used. This cost typically includes the surgeon’s fee, anaesthesia, operating room facilities, and post-operative care. However, additional expenses like prescription medications, medical tests, and clothing may be incurred.
+
+To understand the full extent of the costs involved for breast augmentation or any other specific plastic surgery procedure, please contact us for detailed information via our website or WhatsApp.'
+2025-11-10 08:52:25,020 - INFO - 127.0.0.1 - - [10/Nov/2025 08:52:25] "POST /chat HTTP/1.1" 200 -
+2025-11-10 08:54:57,259 - INFO - RAG sistemi başlatılıyor... Gömme Modeli: text-embedding-004
+2025-11-10 08:54:57,529 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-10 08:54:57,584 - INFO - Chroma Veritabanı başarıyla yüklendi.
+2025-11-10 08:54:57,585 - INFO - RAG zinciri başarıyla oluşturuldu.
+2025-11-10 08:54:57,610 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.129:5001
+2025-11-10 08:54:57,610 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-10 08:55:22,129 - INFO - 127.0.0.1 - - [10/Nov/2025 08:55:22] "GET / HTTP/1.1" 200 -
+2025-11-10 08:55:24,883 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 08:55:24,883 - INFO - Kullanıcı Sorgusu: 'Is Obesity Surgery Safe?'
+2025-11-10 08:55:25,169 - INFO - Dil tespit edildi: en
+2025-11-10 08:55:27,484 - INFO - AI Yanıtı: 'Obesity surgery, like any major surgical procedure, carries certain risks. However, it is generally considered safe, especially when performed by experienced surgeons in well-equipped medical facilities. While it does have inherent risks, it is generally safe and effective for individuals with severe obesity, particularly when accompanied by proper medical oversight and patient adherence to post-operative guidelines. The potential benefits in terms of weight loss and improved health outcomes often outweigh the risks.'
+2025-11-10 08:55:27,486 - INFO - 127.0.0.1 - - [10/Nov/2025 08:55:27] "POST /chat HTTP/1.1" 200 -
+2025-11-10 08:55:47,406 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 08:55:47,406 - INFO - Kullanıcı Sorgusu: 'Risks of Plastic Surgery'
+2025-11-10 08:55:47,413 - INFO - Dil tespit edildi: en
+2025-11-10 08:55:49,478 - INFO - AI Yanıtı: 'Possible risks of breast augmentation surgery include:
+*   Anesthesia risks
+*   Breast implant-associated anaplastic large cell lymphoma (BIA-ALCL)
+*   Bleeding
+*   Changes in nipple or breast sensation
+*   Fluid accumulation (seroma)
+*   Formation of tight scar tissue around the implant (capsular contracture)
+*   Hematoma
+*   Implant leakage or rupture
+*   Infection
+*   Persistent pain
+*   Poor scarring
+*   Possibility of revision surgery
+*   Wrinkling of the skin over the implant
+*   Incorrect positioning of the implant
+
+These risks, among others, will be thoroughly discussed with you prior to obtaining your consent.'
+2025-11-10 08:55:49,480 - INFO - 127.0.0.1 - - [10/Nov/2025 08:55:49] "POST /chat HTTP/1.1" 200 -
+2025-11-10 08:59:44,407 - INFO - RAG sistemi başlatılıyor... Gömme Modeli: text-embedding-004
+2025-11-10 08:59:44,639 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-10 08:59:44,674 - INFO - Chroma Veritabanı başarıyla yüklendi.
+2025-11-10 08:59:44,676 - INFO - RAG zinciri başarıyla oluşturuldu.
+2025-11-10 08:59:44,699 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.129:5001
+2025-11-10 08:59:44,699 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-10 08:59:58,437 - INFO - 127.0.0.1 - - [10/Nov/2025 08:59:58] "GET / HTTP/1.1" 200 -
+2025-11-10 09:00:01,072 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 09:00:01,072 - INFO - Kullanıcı Sorgusu: 'Risks of Plastic Surgery'
+2025-11-10 09:00:01,354 - INFO - Dil tespit edildi: en
+2025-11-10 09:00:04,133 - INFO - AI Yanıtı: 'Possible risks of breast augmentation surgery include:
+*   Anesthesia risks
+*   Breast implant-associated anaplastic large cell lymphoma (BIA-ALCL)
+*   Bleeding
+*   Changes in nipple or breast sensation
+*   Fluid accumulation (seroma)
+*   Formation of tight scar tissue around the implant (capsular contracture)
+*   Hematoma
+*   Implant leakage or rupture
+*   Infection
+*   Persistent pain
+*   Poor scarring
+*   Possibility of revision surgery
+*   Wrinkling of the skin over the implant
+*   Incorrect positioning of the implant
+
+These risks, among others, will be thoroughly discussed with you prior to obtaining your consent.'
+2025-11-10 09:00:04,136 - INFO - 127.0.0.1 - - [10/Nov/2025 09:00:04] "POST /chat HTTP/1.1" 200 -
+2025-11-10 09:00:21,247 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 09:00:21,248 - INFO - Kullanıcı Sorgusu: 'What is plastic surgery'
+2025-11-10 09:00:21,255 - INFO - Dil tespit edildi: en
+2025-11-10 09:00:23,245 - INFO - AI Yanıtı: 'I apologize, but the provided context does not contain a definition of what plastic surgery is.
+
+For more information, please contact SAVA CLINIC via their website or WhatsApp.'
+2025-11-10 09:00:23,247 - INFO - 127.0.0.1 - - [10/Nov/2025 09:00:23] "POST /chat HTTP/1.1" 200 -
+2025-11-10 09:02:08,867 - INFO - 127.0.0.1 - - [10/Nov/2025 09:02:08] "GET / HTTP/1.1" 200 -
+2025-11-10 09:02:11,603 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 09:02:11,604 - INFO - Kullanıcı Sorgusu: 'Risks of Plastic Surgery'
+2025-11-10 09:02:11,613 - INFO - Dil tespit edildi: en
+2025-11-10 09:02:14,807 - INFO - AI Yanıtı: 'Possible risks of breast augmentation surgery include:
+*   Anesthesia risks
+*   Breast implant-associated anaplastic large cell lymphoma (BIA-ALCL)
+*   Bleeding
+*   Changes in nipple or breast sensation
+*   Fluid accumulation (seroma)
+*   Formation of tight scar tissue around the implant (capsular contracture)
+*   Hematoma
+*   Implant leakage or rupture
+*   Infection
+*   Persistent pain
+*   Poor scarring
+*   Possibility of revision surgery
+*   Wrinkling of the skin over the implant
+*   Incorrect positioning of the implant
+
+These risks, among others, will be thoroughly discussed with you prior to obtaining your consent.'
+2025-11-10 09:02:14,809 - INFO - 127.0.0.1 - - [10/Nov/2025 09:02:14] "POST /chat HTTP/1.1" 200 -
+2025-11-10 09:02:51,851 - INFO - 127.0.0.1 - - [10/Nov/2025 09:02:51] "GET / HTTP/1.1" 200 -
+2025-11-10 09:02:54,205 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 09:02:54,206 - INFO - Kullanıcı Sorgusu: 'Cost of Plastic Surgery'
+2025-11-10 09:02:54,213 - INFO - Dil tespit edildi: en
+2025-11-10 09:02:59,307 - INFO - AI Yanıtı: 'While the provided context specifically details the cost of breast augmentation, it does not provide general information on the cost of all plastic surgery procedures.
+
+For breast augmentation, the cost can vary significantly depending on factors such as the surgeon’s experience, the geographical location of the practice, and the type of implants used. This cost typically includes the surgeon’s fee, anaesthesia, operating room facilities, and post-operative care. However, additional expenses such as prescription medications, medical tests, and clothing may be incurred.
+
+To understand the full extent of the costs involved for breast augmentation or other plastic surgery procedures, please contact SAVA CLINIC via their website or WhatsApp.'
+2025-11-10 09:02:59,312 - INFO - 127.0.0.1 - - [10/Nov/2025 09:02:59] "POST /chat HTTP/1.1" 200 -
+2025-11-10 09:04:26,826 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 09:04:26,828 - INFO - Kullanıcı Sorgusu: 'What is exactly done in plastic surgery?'
+2025-11-10 09:04:26,836 - INFO - Dil tespit edildi: en
+2025-11-10 09:04:28,147 - INFO - AI Yanıtı: 'Plastic surgery at SAVA CLINIC is focused on enhancing your natural beauty with cosmetic surgery to boost your self-confidence.'
+2025-11-10 09:04:28,149 - INFO - 127.0.0.1 - - [10/Nov/2025 09:04:28] "POST /chat HTTP/1.1" 200 -
+2025-11-10 09:05:14,620 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 09:05:14,622 - INFO - Kullanıcı Sorgusu: 'What outcomes can be expected after plastic surgery?'
+2025-11-10 09:05:14,642 - INFO - Dil tespit edildi: en
+2025-11-10 09:05:18,211 - INFO - AI Yanıtı: 'After breast augmentation surgery, you can expect immediate enlargement of the breasts. The final results, however, can take several weeks to become fully apparent as swelling subsides and the skin stretches naturally. In some cases, a bandeau may be needed to assist in shaping the breasts.
+
+Other expected outcomes mentioned in the context include:
+*   **Restoration after mastectomy:** Restoring breast appearance and symmetry, helping patients regain a sense of normalcy and femininity.
+*   **Restoration after weight loss or pregnancy:** Addressing changes in breast volume and firmness, restoring a more youthful and perky breast appearance.
+*   **Durable and Long-Lasting Results:** Benefiting from advances in implant technology and surgical techniques that offer durable, long-lasting results with minimal complications.
+*   Overall satisfaction, especially with proper preparation and informed expectations.'
+2025-11-10 09:05:18,213 - INFO - 127.0.0.1 - - [10/Nov/2025 09:05:18] "POST /chat HTTP/1.1" 200 -
+2025-11-10 09:08:12,973 - INFO - RAG sistemi başlatılıyor... Gömme Modeli: text-embedding-004
+2025-11-10 09:08:13,236 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-10 09:08:13,320 - INFO - Chroma Veritabanı başarıyla yüklendi.
+2025-11-10 09:08:13,322 - INFO - RAG zinciri başarıyla oluşturuldu.
+2025-11-10 09:08:13,343 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.129:5001
+2025-11-10 09:08:13,343 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-10 09:08:28,434 - INFO - 127.0.0.1 - - [10/Nov/2025 09:08:28] "GET / HTTP/1.1" 200 -
+2025-11-10 09:08:30,785 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 09:08:30,785 - INFO - Kullanıcı Sorgusu: 'Risks of Plastic Surgery'
+2025-11-10 09:08:31,073 - INFO - Dil tespit edildi: en
+2025-11-10 09:08:33,410 - INFO - AI Yanıtı: 'Based on the provided context, the risks associated with implants include:
+
+*   Implant (capsular contracture)
+*   Hematoma
+*   Implant leakage or rupture
+*   Infection
+*   Persistent pain
+*   Poor scarring
+*   Possibility of revision surgery
+*   Wrinkling of the skin over the implant
+*   Incorrect positioning of the implant
+
+These risks, among others, will be thoroughly discussed with you prior to obtaining your consent. It is crucial to address all your questions and concerns directly with your plastic surgeon.'
+2025-11-10 09:08:33,410 - INFO - 127.0.0.1 - - [10/Nov/2025 09:08:33] "POST /chat HTTP/1.1" 200 -
+2025-11-10 09:09:14,339 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 09:09:14,340 - INFO - Kullanıcı Sorgusu: 'How Safe Is Obesity Surgery'
+2025-11-10 09:09:14,366 - INFO - Dil tespit edildi: en
+2025-11-10 09:09:17,575 - INFO - AI Yanıtı: 'Obesity surgery, also known as bariatric surgery, is generally considered safe, especially when performed by experienced surgeons in well-equipped medical facilities. While it carries certain risks, like any major surgical procedure, it is among the safest surgical procedures in modern medicine and is often considered safer than other elective surgeries. The potential benefits in terms of weight loss and improved health outcomes often outweigh the risks, making it a viable option for many individuals struggling with obesity.'
+2025-11-10 09:09:17,578 - INFO - 127.0.0.1 - - [10/Nov/2025 09:09:17] "POST /chat HTTP/1.1" 200 -
+2025-11-10 09:09:56,663 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 09:09:56,663 - INFO - Kullanıcı Sorgusu: 'Do they remove fat during obesity surgery?'
+2025-11-10 09:09:56,670 - INFO - Dil tespit edildi: en
+2025-11-10 09:09:58,121 - INFO - AI Yanıtı: 'Obesity surgery helps you lose weight by changing the digestive system instead of directly taking in fat. This operation changes how much food a person can consume and how much food is absorbed by the body, or affects both.'
+2025-11-10 09:09:58,123 - INFO - 127.0.0.1 - - [10/Nov/2025 09:09:58] "POST /chat HTTP/1.1" 200 -
+2025-11-10 09:11:46,705 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 09:11:46,708 - INFO - Kullanıcı Sorgusu: 'How do you lose weight after obesity surgery?'
+2025-11-10 09:11:46,730 - INFO - Dil tespit edildi: en
+2025-11-10 09:11:48,675 - INFO - AI Yanıtı: 'Losing weight after obesity surgery is an important process that requires adhering to certain rules and lifestyle changes. Here are some important points to consider:
+*   Follow Your Diet
+*   Watch Your Fluid Intake
+*   Exercise Regularly
+*   Regular Follow-up and Controls
+*   Psychological Support
+*   Lifestyle Changes
+
+Losing weight after bariatric surgery is a process that requires discipline and determination.'
+2025-11-10 09:11:48,677 - INFO - 127.0.0.1 - - [10/Nov/2025 09:11:48] "POST /chat HTTP/1.1" 200 -
+2025-11-10 09:12:23,507 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 09:12:23,508 - INFO - Kullanıcı Sorgusu: 'What happens after obesity surgery?'
+2025-11-10 09:12:23,521 - INFO - Dil tespit edildi: en
+2025-11-10 09:12:26,101 - INFO - AI Yanıtı: 'After obesity surgery, it is important to follow your doctor's recommendations, which include dietary restrictions, activity guidelines, and medication schedules. You should prioritize rest and proper nutrition to facilitate healing and minimize complications. Regular follow-up appointments with healthcare professionals are crucial to monitor progress.
+
+To lose weight after obesity surgery, you need to adhere to certain rules and lifestyle changes, such as following your diet, watching your fluid intake, exercising regularly, attending regular follow-up and controls, seeking psychological support, and making lifestyle changes. With proper nutrition, regular exercise, and healthy lifestyle habits, you can lead a healthier and happier life after surgery.'
+2025-11-10 09:12:26,103 - INFO - 127.0.0.1 - - [10/Nov/2025 09:12:26] "POST /chat HTTP/1.1" 200 -
+2025-11-10 09:13:06,408 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 09:13:06,409 - INFO - Kullanıcı Sorgusu: 'Is bariatric surgery good or bad?'
+2025-11-10 09:13:06,432 - INFO - Dil tespit edildi: en
+2025-11-10 09:13:08,120 - INFO - AI Yanıtı: 'Bariatric surgery is highly effective in limiting eating capacity and reducing nutrient absorption, leading to significant weight loss. However, it also carries risks such as malnutrition and vitamin deficiencies.'
+2025-11-10 09:13:08,122 - INFO - 127.0.0.1 - - [10/Nov/2025 09:13:08] "POST /chat HTTP/1.1" 200 -
+2025-11-10 09:13:57,555 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 09:13:57,556 - INFO - Kullanıcı Sorgusu: 'Is bariatric surgery painful?'
+2025-11-10 09:13:57,568 - INFO - Dil tespit edildi: en
+2025-11-10 09:13:59,771 - INFO - AI Yanıtı: 'Bariatric surgery itself is performed under anesthesia, so you won’t feel pain during the procedure. However, mild to moderate pain or discomfort is common during the recovery period, especially around the incision sites. Pain management is typically provided, and most patients find the discomfort manageable as they heal.'
+2025-11-10 09:13:59,772 - INFO - 127.0.0.1 - - [10/Nov/2025 09:13:59] "POST /chat HTTP/1.1" 200 -
+2025-11-10 15:58:45,809 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 15:58:45,813 - INFO - Kullanıcı Sorgusu: 'What is breast augmentation?'
+2025-11-10 15:58:45,842 - INFO - Dil tespit edildi: en
+2025-11-10 15:58:48,965 - INFO - AI Yanıtı: 'Breast augmentation, also known as augmentation mammoplasty, is a surgical procedure designed to increase the size, shape, or fullness of the breasts. This is typically achieved using breast implants (silicone gel or saline) or through fat transfer, where fat is taken from another part of the patient’s body and injected into the breasts. The goal of the procedure can vary, including enhancing the breast’s overall appearance, improving symmetry, or restoring breast volume lost after weight reduction or pregnancy.'
+2025-11-10 15:58:48,981 - INFO - 127.0.0.1 - - [10/Nov/2025 15:58:48] "POST /chat HTTP/1.1" 200 -
+2025-11-10 15:59:59,546 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 15:59:59,548 - INFO - Kullanıcı Sorgusu: '¿Cuáles son los riesgos tras un aumento de senos?'
+2025-11-10 15:59:59,575 - INFO - Dil tespit edildi: es
+2025-11-10 16:00:01,451 - INFO - AI Yanıtı: 'Los posibles riesgos de la cirugía de aumento de senos incluyen:
+
+*   Riesgos asociados a la anestesia
+*   Linfoma anaplásico de células grandes relacionado con implantes mamarios (BIA-ALCL)
+*   Sangrado
+*   Cambios en la sensibilidad del pezón o de los senos
+*   Acumulación de líquido (seroma)
+*   Formación de tejido cicatricial apretado alrededor del implante'
+2025-11-10 16:00:01,454 - INFO - 127.0.0.1 - - [10/Nov/2025 16:00:01] "POST /chat HTTP/1.1" 200 -
+2025-11-10 17:41:28,471 - INFO - RAG sistemi başlatılıyor... Gömme Modeli: text-embedding-004
+2025-11-10 17:41:28,732 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-10 17:41:28,824 - INFO - Chroma Veritabanı başarıyla yüklendi.
+2025-11-10 17:41:28,826 - INFO - RAG zinciri başarıyla oluşturuldu.
+2025-11-10 17:41:28,868 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.129:5001
+2025-11-10 17:41:28,868 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-10 17:41:51,535 - INFO - 127.0.0.1 - - [10/Nov/2025 17:41:51] "GET / HTTP/1.1" 200 -
+2025-11-10 17:41:54,673 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 17:41:54,673 - INFO - Kullanıcı Sorgusu: 'Recuperación después del aumento de senos'
+2025-11-10 17:41:54,970 - INFO - Dil tespit edildi: es
+2025-11-10 17:41:58,085 - INFO - AI Yanıtı: 'Después de un aumento de senos, la recuperación implica varios aspectos importantes:
+
+*   **Resultados finales:** Aunque el agrandamiento es inmediato, los resultados finales pueden tardar varias semanas en ser visibles, ya que la hinchazón debe disminuir y la piel estirarse de forma natural.
+*   **Manejo del dolor y medicación:** Es posible que se receten analgésicos para controlar el dolor postoperatorio. Es fundamental seguir las indicaciones médicas respecto a la medicación y otros suplementos nutricionales.
+*   **Cuidado de las incisiones:** Mantener las incisiones limpias y secas es importante para prevenir infecciones. Se puede recomendar un seguimiento cercano con el equipo médico para verificar la cicatrización.
+*   **Seguimiento:** Las citas de seguimiento regulares con su proveedor de atención médica son esenciales para monitorear su progreso y abordar cualquier inquietud que pueda surgir durante la recuperación.'
+2025-11-10 17:41:58,088 - INFO - 127.0.0.1 - - [10/Nov/2025 17:41:58] "POST /chat HTTP/1.1" 200 -
+2025-11-10 17:43:11,634 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 17:43:11,635 - INFO - Kullanıcı Sorgusu: 'Implantes Mamarios'
+2025-11-10 17:43:11,649 - INFO - Dil tespit edildi: es
+2025-11-10 17:43:13,671 - INFO - AI Yanıtı: 'Los implantes mamarios están compuestos por una cubierta impermeable de silicona y pueden estar llenos de gel de silicona o solución salina. Se ofrecen en formas redondas o anatómicas (en forma de lágrima) y con diferentes texturas superficiales, como lisas, texturizadas o con un material similar a una esponja.
+
+Los principales usos de los implantes mamarios incluyen cirugías de aumento de senos para mujeres con poco desarrollo mamario o que desean aumentar el tamaño tras fluctuaciones de peso o cambios posteriores al embarazo.'
+2025-11-10 17:43:13,672 - INFO - 127.0.0.1 - - [10/Nov/2025 17:43:13] "POST /chat HTTP/1.1" 200 -
+2025-11-10 17:44:01,674 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 17:44:01,675 - INFO - Kullanıcı Sorgusu: '¿Funciona la Cirugía Bariátrica?'
+2025-11-10 17:44:01,691 - INFO - Dil tespit edildi: es
+2025-11-10 17:44:04,752 - INFO - AI Yanıtı: 'Sí, la cirugía bariátrica es una forma eficaz de perder peso. Según los estudios, en el primer mes, los pacientes pueden perder el 10% de su peso total; entre 18 y 24 meses, la pérdida total puede variar del 40% al 60%. El contexto también la describe como "la forma más segura y rápida de PERDER PESO" y menciona que es la ciencia detrás de la "pérdida de peso duradera".'
+2025-11-10 17:44:04,753 - INFO - 127.0.0.1 - - [10/Nov/2025 17:44:04] "POST /chat HTTP/1.1" 200 -
+2025-11-10 17:46:52,996 - INFO - RAG sistemi başlatılıyor... Gömme Modeli: text-embedding-004
+2025-11-10 17:46:53,258 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-10 17:46:53,319 - INFO - Chroma Veritabanı başarıyla yüklendi.
+2025-11-10 17:46:53,321 - INFO - RAG zinciri başarıyla oluşturuldu.
+2025-11-10 17:46:53,358 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.129:5001
+2025-11-10 17:46:53,358 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-10 17:47:11,735 - INFO - 127.0.0.1 - - [10/Nov/2025 17:47:11] "GET / HTTP/1.1" 200 -
+2025-11-10 17:47:14,857 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 17:47:14,857 - INFO - Kullanıcı Sorgusu: '¿Funciona la Cirugía Bariátrica?'
+2025-11-10 17:47:15,136 - INFO - Dil tespit edildi: es
+2025-11-10 17:47:22,409 - INFO - AI Yanıtı: 'Según el contexto proporcionado, la cirugía bariátrica ayuda a "dejar atrás el peso" y "aligerar su vida", siendo "algo más que perder peso". También se menciona "la ciencia detrás de la pérdida de peso duradera" después de una cirugía bariátrica.'
+2025-11-10 17:47:22,414 - INFO - 127.0.0.1 - - [10/Nov/2025 17:47:22] "POST /chat HTTP/1.1" 200 -
+2025-11-10 17:48:13,799 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 17:48:13,800 - INFO - Kullanıcı Sorgusu: '¿Qué Tan Segura es la Cirugía Bariátrica?'
+2025-11-10 17:48:13,819 - INFO - Dil tespit edildi: es
+2025-11-10 17:48:16,061 - INFO - AI Yanıtı: 'No tengo información sobre la seguridad de la cirugía bariátrica en el contexto proporcionado. Te sugiero que te pongas en contacto con la clínica a través de su sitio web o WhatsApp para obtener más detalles.'
+2025-11-10 17:48:16,063 - INFO - 127.0.0.1 - - [10/Nov/2025 17:48:16] "POST /chat HTTP/1.1" 200 -
+2025-11-10 17:50:22,495 - INFO - RAG sistemi başlatılıyor... Gömme Modeli: text-embedding-004
+2025-11-10 17:50:22,735 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-10 17:50:22,782 - INFO - Chroma Veritabanı başarıyla yüklendi.
+2025-11-10 17:50:22,784 - INFO - RAG zinciri başarıyla oluşturuldu.
+2025-11-10 17:50:22,810 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.129:5001
+2025-11-10 17:50:22,810 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-10 17:50:43,142 - INFO - 127.0.0.1 - - [10/Nov/2025 17:50:43] "GET / HTTP/1.1" 200 -
+2025-11-10 17:50:45,961 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 17:50:45,962 - INFO - Kullanıcı Sorgusu: 'Cirugía de pérdida de peso en Turquía'
+2025-11-10 17:50:46,248 - INFO - Dil tespit edildi: es
+2025-11-10 17:50:49,186 - INFO - AI Yanıtı: 'No tengo información sobre cirugía de pérdida de peso en Turquía en el contexto proporcionado.
+
+Le sugiero que se ponga en contacto con la clínica a través de su sitio web o WhatsApp para obtener más información.'
+2025-11-10 17:50:49,188 - INFO - 127.0.0.1 - - [10/Nov/2025 17:50:49] "POST /chat HTTP/1.1" 200 -
+2025-11-10 17:53:48,464 - INFO - 127.0.0.1 - - [10/Nov/2025 17:53:48] "GET / HTTP/1.1" 200 -
+2025-11-10 17:53:50,722 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 17:53:50,722 - INFO - Kullanıcı Sorgusu: 'Cirugía de pérdida de peso en Turquía'
+2025-11-10 17:53:50,732 - INFO - Dil tespit edildi: es
+2025-11-10 17:53:53,964 - INFO - AI Yanıtı: 'No tengo información sobre cirugía de pérdida de peso en Turquía en el contexto proporcionado.
+
+Le sugiero que se ponga en contacto con la clínica a través de su sitio web o WhatsApp para obtener más información.'
+2025-11-10 17:53:53,967 - INFO - 127.0.0.1 - - [10/Nov/2025 17:53:53] "POST /chat HTTP/1.1" 200 -
+2025-11-10 17:55:22,498 - INFO - RAG sistemi başlatılıyor... Gömme Modeli: text-embedding-004
+2025-11-10 17:55:22,745 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-10 17:55:22,783 - INFO - Chroma Veritabanı başarıyla yüklendi.
+2025-11-10 17:55:22,785 - INFO - RAG zinciri başarıyla oluşturuldu.
+2025-11-10 17:55:22,823 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.129:5001
+2025-11-10 17:55:22,823 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-10 17:55:39,445 - INFO - 127.0.0.1 - - [10/Nov/2025 17:55:39] "GET / HTTP/1.1" 200 -
+2025-11-10 17:55:42,380 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 17:55:42,380 - INFO - Kullanıcı Sorgusu: '¿Qué es la Cirugía Bariátrica?'
+2025-11-10 17:55:42,668 - INFO - Dil tespit edildi: es
+2025-11-10 17:55:45,231 - INFO - AI Yanıtı: 'No tengo información sobre la definición específica de la Cirugía Bariátrica en el contexto proporcionado.
+
+Le sugiero que se ponga en contacto con la clínica a través de su sitio web o WhatsApp para obtener más detalles.'
+2025-11-10 17:55:45,233 - INFO - 127.0.0.1 - - [10/Nov/2025 17:55:45] "POST /chat HTTP/1.1" 200 -
+2025-11-10 17:58:38,621 - INFO - RAG sistemi başlatılıyor... Gömme Modeli: text-embedding-004
+2025-11-10 17:58:38,860 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-10 17:58:38,910 - INFO - Chroma Veritabanı başarıyla yüklendi.
+2025-11-10 17:58:38,912 - INFO - RAG zinciri başarıyla oluşturuldu.
+2025-11-10 17:58:38,943 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.129:5001
+2025-11-10 17:58:38,943 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-10 17:58:50,370 - INFO - 127.0.0.1 - - [10/Nov/2025 17:58:50] "GET / HTTP/1.1" 200 -
+2025-11-10 17:58:52,837 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 17:58:52,837 - INFO - Kullanıcı Sorgusu: '¿Qué es la Cirugía Bariátrica?'
+2025-11-10 17:58:53,134 - INFO - Dil tespit edildi: es
+2025-11-10 17:58:55,951 - INFO - AI Yanıtı: 'No tengo información sobre qué es la Cirugía Bariátrica en el contexto proporcionado. Te sugiero contactar a la clínica a través de su sitio web o WhatsApp para obtener más detalles.'
+2025-11-10 17:58:55,959 - INFO - 127.0.0.1 - - [10/Nov/2025 17:58:55] "POST /chat HTTP/1.1" 200 -
+2025-11-10 18:01:06,280 - INFO - RAG sistemi başlatılıyor... Gömme Modeli: text-embedding-004
+2025-11-10 18:01:06,553 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-10 18:01:06,640 - INFO - Chroma Veritabanı başarıyla yüklendi.
+2025-11-10 18:01:06,642 - INFO - RAG zinciri başarıyla oluşturuldu.
+2025-11-10 18:01:06,662 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.129:5001
+2025-11-10 18:01:06,662 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-10 18:01:18,261 - INFO - 127.0.0.1 - - [10/Nov/2025 18:01:18] "GET / HTTP/1.1" 200 -
+2025-11-10 18:01:20,815 - INFO - 127.0.0.1 - - [10/Nov/2025 18:01:20] "GET / HTTP/1.1" 200 -
+2025-11-10 18:01:23,310 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 18:01:23,310 - INFO - Kullanıcı Sorgusu: '¿Qué es la Cirugía Bariátrica?'
+2025-11-10 18:01:23,596 - INFO - Dil tespit edildi: es
+2025-11-10 18:01:26,426 - INFO - AI Yanıtı: 'No tengo información sobre qué es la Cirugía Bariátrica en el contexto proporcionado. Te sugiero contactar a la clínica a través de su sitio web o WhatsApp para obtener más detalles.'
+2025-11-10 18:01:26,429 - INFO - 127.0.0.1 - - [10/Nov/2025 18:01:26] "POST /chat HTTP/1.1" 200 -
+2025-11-10 18:01:55,075 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 18:01:55,077 - INFO - Kullanıcı Sorgusu: 'What is Obesity Surgery'
+2025-11-10 18:01:55,099 - INFO - Dil tespit edildi: en
+2025-11-10 18:01:57,201 - INFO - AI Yanıtı: 'Obesity surgery, also known as bariatric surgery, involves surgical interventions that are particularly effective in combating obesity and reducing health problems caused by overweight. These surgeries function by making changes to the structure of digestive system organs, such as the stomach and small intestine. The goals of these surgeries are to increase the feeling of satiety, ensure less food intake, and reduce nutrient absorption, which allows patients to eat less and lose weight.'
+2025-11-10 18:01:57,203 - INFO - 127.0.0.1 - - [10/Nov/2025 18:01:57] "POST /chat HTTP/1.1" 200 -
+2025-11-10 18:02:13,688 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 18:02:13,690 - INFO - Kullanıcı Sorgusu: 'Does Obesity Surgery Work?'
+2025-11-10 18:02:13,718 - INFO - Dil tespit edildi: en
+2025-11-10 18:02:16,357 - INFO - AI Yanıtı: 'Yes, obesity surgery is particularly effective in combating obesity and offers a permanent and effective solution in the fight against obesity. It aims to reduce health problems caused by overweight, improves the quality of life of patients, and enables them to step into a healthier life.'
+2025-11-10 18:02:16,379 - INFO - 127.0.0.1 - - [10/Nov/2025 18:02:16] "POST /chat HTTP/1.1" 200 -
+2025-11-10 18:02:54,780 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 18:02:54,781 - INFO - Kullanıcı Sorgusu: 'Turkey weight loss surgery'
+2025-11-10 18:02:54,811 - INFO - Dil tespit edildi: en
+2025-11-10 18:02:57,105 - INFO - AI Yanıtı: 'Turkey is a popular destination for weight loss surgery, combining medical excellence with affordability and exceptional hospitality. Sava Clinic offers various slimming surgeries, including gastric sleeve, gastric bypass, and gastric balloon, performed with advanced technology and skilled bariatric surgeons.
+
+Many international patients choose Turkey due to its cost-effectiveness, often up to 70% cheaper compared to the USA or Europe. Comprehensive medical packages, including transport, accommodation, and post-operative care, are also offered.'
+2025-11-10 18:02:57,108 - INFO - 127.0.0.1 - - [10/Nov/2025 18:02:57] "POST /chat HTTP/1.1" 200 -
+2025-11-10 18:03:57,480 - INFO - --- YENİ SORGULAMA ---
+2025-11-10 18:03:57,482 - INFO - Kullanıcı Sorgusu: 'Cost of Plastic Surgery'
+2025-11-10 18:03:57,508 - INFO - Dil tespit edildi: en
+2025-11-10 18:04:00,104 - INFO - AI Yanıtı: 'The provided context specifically discusses the cost of **Breast Augmentation**, not plastic surgery in general.
+
+The cost of breast augmentation can vary significantly depending on factors such as the surgeon’s experience, the geographical location of the practice, and the type of implants used. This cost typically includes the surgeon’s fee, anaesthesia, operating room facilities, and post-operative care. However, additional expenses such as prescription medications, medical tests, and clothing may be incurred.
+
+For detailed information on the costs involved for specific procedures, please contact SAVA CLINIC via their website or WhatsApp.'
+2025-11-10 18:04:00,106 - INFO - 127.0.0.1 - - [10/Nov/2025 18:04:00] "POST /chat HTTP/1.1" 200 -
+2025-11-11 00:49:07,644 - INFO - RAG sistemi başlatılıyor... Gömme Modeli: text-embedding-004
+2025-11-11 00:49:07,913 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-11 00:49:08,004 - INFO - Chroma Veritabanı başarıyla yüklendi.
+2025-11-11 00:49:08,006 - INFO - RAG zinciri başarıyla oluşturuldu.
+2025-11-11 00:49:08,043 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.129:5001
+2025-11-11 00:49:08,043 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-11 00:49:19,964 - INFO - 127.0.0.1 - - [11/Nov/2025 00:49:19] "GET / HTTP/1.1" 200 -
+2025-11-11 00:49:22,297 - INFO - --- YENİ SORGULAMA ---
+2025-11-11 00:49:22,298 - INFO - Kullanıcı Sorgusu: 'Cost of Plastic Surgery'
+2025-11-11 00:49:22,600 - INFO - Dil tespit edildi: en
+2025-11-11 00:49:25,267 - INFO - AI Yanıtı: 'The cost of breast augmentation can vary significantly depending on several factors, such as the surgeon’s experience, the geographical location of the practice, and the type of implants used. This cost typically includes the surgeon’s fee, anaesthesia, operating room facilities, and post-operative care. However, it is important to note that additional expenses such as prescription medications, medical tests, and clothing may be incurred.
+
+For information on the cost of other plastic surgery procedures or to understand the full extent of the costs involved for breast augmentation and what to expect in terms of financial commitment, please contact SAVA CLINIC via their website or WhatsApp.'
+2025-11-11 00:49:25,270 - INFO - 127.0.0.1 - - [11/Nov/2025 00:49:25] "POST /chat HTTP/1.1" 200 -
+2025-11-11 00:51:15,167 - INFO - RAG sistemi başlatılıyor... Gömme Modeli: text-embedding-004
+2025-11-11 00:51:15,431 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-11 00:51:15,479 - INFO - Chroma Veritabanı başarıyla yüklendi.
+2025-11-11 00:51:15,481 - INFO - RAG zinciri başarıyla oluşturuldu.
+2025-11-11 00:51:15,503 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.129:5001
+2025-11-11 00:51:15,503 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-11 00:51:26,598 - INFO - 127.0.0.1 - - [11/Nov/2025 00:51:26] "GET / HTTP/1.1" 200 -
+2025-11-11 00:51:29,525 - INFO - --- YENİ SORGULAMA ---
+2025-11-11 00:51:29,525 - INFO - Kullanıcı Sorgusu: 'Cost of Plastic Surgery'
+2025-11-11 00:51:29,811 - INFO - Dil tespit edildi: en
+2025-11-11 00:51:34,081 - INFO - AI Yanıtı: 'The provided context specifically discusses the cost of **Breast Augmentation**, not plastic surgery in general.
+
+The cost of breast augmentation can vary significantly depending on factors such as the surgeon’s experience, the geographical location of the practice, and the type of implants used. This cost typically includes the surgeon’s fee, anaesthesia, operating room facilities, and post-operative care. However, additional expenses such as prescription medications, medical tests, and clothing may be incurred.
+
+For detailed information on the costs involved for specific procedures, please contact SAVA CLINIC via their website or WhatsApp.'
+2025-11-11 00:51:34,085 - INFO - 127.0.0.1 - - [11/Nov/2025 00:51:34] "POST /chat HTTP/1.1" 200 -
+2025-11-11 00:53:09,401 - INFO - RAG sistemi başlatılıyor... Gömme Modeli: text-embedding-004
+2025-11-11 00:53:09,657 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-11 00:53:09,716 - INFO - Chroma Veritabanı başarıyla yüklendi.
+2025-11-11 00:53:09,718 - INFO - RAG zinciri başarıyla oluşturuldu.
+2025-11-11 00:53:09,748 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.129:5001
+2025-11-11 00:53:09,749 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-11 00:53:30,779 - INFO - --- YENİ SORGULAMA ---
+2025-11-11 00:53:30,781 - INFO - Kullanıcı Sorgusu: 'Risks of Plastic Surgery'
+2025-11-11 00:53:31,109 - INFO - Dil tespit edildi: en
+2025-11-11 00:53:34,023 - INFO - AI Yanıtı: 'Based on the provided context, the risks associated with implants include:
+
+*   Capsular contracture
+*   Hematoma
+*   Implant leakage or rupture
+*   Infection
+*   Persistent pain
+*   Poor scarring
+*   Possibility of revision surgery
+*   Wrinkling of the skin over the implant
+*   Incorrect positioning of the implant
+
+These risks, among others, will be thoroughly discussed with you prior to obtaining your consent, and it is crucial to address all your questions and concerns directly with your plastic surgeon.'
+2025-11-11 00:53:34,031 - INFO - 127.0.0.1 - - [11/Nov/2025 00:53:34] "POST /chat HTTP/1.1" 200 -
+2025-11-11 01:19:36,379 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-11 01:19:36,475 - INFO - ✅ RAG zinciri başarıyla oluşturuldu.
+2025-11-11 01:19:36,524 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.129:5001
+2025-11-11 01:19:36,524 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-11 01:19:50,236 - INFO - 127.0.0.1 - - [11/Nov/2025 01:19:50] "GET / HTTP/1.1" 200 -
+2025-11-11 01:19:52,327 - INFO - 127.0.0.1 - - [11/Nov/2025 01:19:52] "GET / HTTP/1.1" 200 -
+2025-11-11 01:22:09,660 - INFO - RAG sistemi başlatılıyor... Gömme Modeli: text-embedding-004
+2025-11-11 01:22:09,952 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-11 01:22:10,035 - INFO - Chroma Veritabanı başarıyla yüklendi.
+2025-11-11 01:22:10,037 - INFO - RAG zinciri başarıyla oluşturuldu.
+2025-11-11 01:22:10,060 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.129:5001
+2025-11-11 01:22:10,060 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-11 01:22:14,028 - INFO - 127.0.0.1 - - [11/Nov/2025 01:22:14] "GET / HTTP/1.1" 200 -
+2025-11-11 01:23:00,235 - INFO - --- YENİ SORGULAMA ---
+2025-11-11 01:23:00,238 - INFO - Kullanıcı Sorgusu: 'Risks of Plastic Surgery'
+2025-11-11 01:23:00,572 - INFO - Dil tespit edildi: en
+2025-11-11 01:23:03,419 - INFO - AI Yanıtı: 'Based on the provided context, the risks associated with implants include:
+
+*   Capsular contracture
+*   Hematoma
+*   Implant leakage or rupture
+*   Infection
+*   Persistent pain
+*   Poor scarring
+*   Possibility of revision surgery
+*   Wrinkling of the skin over the implant
+*   Incorrect positioning of the implant
+
+These risks, among others, will be thoroughly discussed with you prior to obtaining your consent, and it is crucial to address all your questions and concerns directly with your plastic surgeon.'
+2025-11-11 01:23:03,423 - INFO - 127.0.0.1 - - [11/Nov/2025 01:23:03] "POST /chat HTTP/1.1" 200 -
+2025-11-11 01:29:08,116 - INFO - 127.0.0.1 - - [11/Nov/2025 01:29:08] "GET / HTTP/1.1" 200 -
+2025-11-11 01:29:09,997 - INFO - --- YENİ SORGULAMA ---
+2025-11-11 01:29:09,997 - INFO - Kullanıcı Sorgusu: 'Gastric Sleeve'
+2025-11-11 01:29:10,029 - INFO - Dil tespit edildi: en
+2025-11-11 01:29:12,949 - INFO - AI Yanıtı: 'Gastric sleeve surgery, also known as sleeve gastrectomy, is a bariatric procedure designed to help individuals achieve significant and permanent weight loss, and maintain a healthy lifestyle. During this surgery, approximately 80% of the stomach is removed, leaving behind a tube-shaped “sleeve.” This reduction in stomach size restricts calorie intake and promotes a feeling of fullness with less food.
+
+Gastric sleeve surgery is particularly beneficial for individuals seeking lasting weight loss and improvement in obesity-related health issues. One of its primary benefits is significant weight loss.'
+2025-11-11 01:29:12,951 - INFO - 127.0.0.1 - - [11/Nov/2025 01:29:12] "POST /chat HTTP/1.1" 200 -
+2025-11-11 01:29:51,137 - INFO - --- YENİ SORGULAMA ---
+2025-11-11 01:29:51,138 - INFO - Kullanıcı Sorgusu: 'What is a gastric sleeve ?'
+2025-11-11 01:29:51,161 - INFO - Dil tespit edildi: en
+2025-11-11 01:29:52,796 - INFO - AI Yanıtı: 'Gastric sleeve surgery, also known as sleeve gastrectomy, is a bariatric procedure designed to help individuals achieve significant weight loss. During this surgery, approximately 80% of the stomach is removed, leaving behind a tube-shaped “sleeve.” This reduction in stomach size restricts calorie intake and promotes a feeling of fullness with less food.'
+2025-11-11 01:29:52,797 - INFO - 127.0.0.1 - - [11/Nov/2025 01:29:52] "POST /chat HTTP/1.1" 200 -
+2025-11-11 01:30:33,680 - INFO - --- YENİ SORGULAMA ---
+2025-11-11 01:30:33,682 - INFO - Kullanıcı Sorgusu: 'How Is Gastric Sleeve Surgery Performed?'
+2025-11-11 01:30:33,707 - INFO - Dil tespit edildi: en
+2025-11-11 01:30:34,883 - INFO - AI Yanıtı: 'Gastric sleeve surgery is performed using the laparoscopic method, which is a minimally invasive approach.'
+2025-11-11 01:30:34,884 - INFO - 127.0.0.1 - - [11/Nov/2025 01:30:34] "POST /chat HTTP/1.1" 200 -
+2025-11-11 01:31:01,756 - INFO - --- YENİ SORGULAMA ---
+2025-11-11 01:31:01,763 - INFO - Kullanıcı Sorgusu: 'Is Gastric Sleeve Surgery Safe?'
+2025-11-11 01:31:01,773 - INFO - Dil tespit edildi: en
+2025-11-11 01:31:03,247 - INFO - AI Yanıtı: 'Like all surgeries, gastric sleeve surgery carries risks, though those performed laparoscopically are generally considered safe.'
+2025-11-11 01:31:03,249 - INFO - 127.0.0.1 - - [11/Nov/2025 01:31:03] "POST /chat HTTP/1.1" 200 -
+2025-11-11 01:31:25,240 - INFO - --- YENİ SORGULAMA ---
+2025-11-11 01:31:25,256 - INFO - Kullanıcı Sorgusu: 'Gastric Sleeve Recovery Time'
+2025-11-11 01:31:25,261 - INFO - Dil tespit edildi: en
+2025-11-11 01:31:26,382 - INFO - AI Yanıtı: 'The recovery time after gastric sleeve surgery varies from person to person, typically ranging from two to four weeks. During this period, patients are advised to follow their surgeon’s post-operative instructions diligently.'
+2025-11-11 01:31:26,384 - INFO - 127.0.0.1 - - [11/Nov/2025 01:31:26] "POST /chat HTTP/1.1" 200 -
+2025-11-11 01:32:06,315 - INFO - --- YENİ SORGULAMA ---
+2025-11-11 01:32:06,317 - INFO - Kullanıcı Sorgusu: 'How long does the gastric sleeve last?'
+2025-11-11 01:32:06,328 - INFO - Dil tespit edildi: en
+2025-11-11 01:32:07,607 - INFO - AI Yanıtı: 'Gastric sleeve gastrectomy is an irreversible permanent procedure; it maintains its effect for a lifetime and cannot be restored.'
+2025-11-11 01:32:07,608 - INFO - 127.0.0.1 - - [11/Nov/2025 01:32:07] "POST /chat HTTP/1.1" 200 -
+2025-11-11 01:32:33,088 - INFO - --- YENİ SORGULAMA ---
+2025-11-11 01:32:33,089 - INFO - Kullanıcı Sorgusu: 'When I can start to smoke?'
+2025-11-11 01:32:33,109 - INFO - Dil tespit edildi: en
+2025-11-11 01:32:33,406 - WARNING - No relevant docs were retrieved using the relevance score threshold 0.7
+2025-11-11 01:32:33,427 - WARNING - Benzerlik eşiği (0.70) nedeniyle 'When I can start to smoke?' sorgusu için belge bulunamadı. Fallback yok.
+2025-11-11 01:32:33,427 - INFO - AI Yanıtı: 'I do not have information about the specific definition of that question in the provided context. I suggest you contact the clinic via their website or WhatsApp for more details.'
+2025-11-11 01:32:33,428 - INFO - 127.0.0.1 - - [11/Nov/2025 01:32:33] "POST /chat HTTP/1.1" 200 -
+2025-11-11 01:33:00,777 - INFO - --- YENİ SORGULAMA ---
+2025-11-11 01:33:00,779 - INFO - Kullanıcı Sorgusu: 'How painful is a gastric sleeve?'
+2025-11-11 01:33:00,789 - INFO - Dil tespit edildi: en
+2025-11-11 01:33:02,323 - INFO - AI Yanıtı: 'I do not have information on how painful a gastric sleeve is. Please contact SAVA CLINIC via their website or WhatsApp for more details.'
+2025-11-11 01:33:02,326 - INFO - 127.0.0.1 - - [11/Nov/2025 01:33:02] "POST /chat HTTP/1.1" 200 -
+2025-11-11 01:33:34,006 - INFO - --- YENİ SORGULAMA ---
+2025-11-11 01:33:34,008 - INFO - Kullanıcı Sorgusu: 'Plastic surgery procedures'
+2025-11-11 01:33:34,031 - INFO - Dil tespit edildi: en
+2025-11-11 01:33:34,334 - WARNING - No relevant docs were retrieved using the relevance score threshold 0.7
+2025-11-11 01:33:34,334 - WARNING - Benzerlik eşiği (0.70) nedeniyle 'Plastic surgery procedures' sorgusu için belge bulunamadı. Fallback yok.
+2025-11-11 01:33:34,334 - INFO - AI Yanıtı: 'I do not have information about the specific definition of that question in the provided context. I suggest you contact the clinic via their website or WhatsApp for more details.'
+2025-11-11 01:33:34,336 - INFO - 127.0.0.1 - - [11/Nov/2025 01:33:34] "POST /chat HTTP/1.1" 200 -
+2025-11-11 01:35:26,879 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-11 01:35:26,943 - INFO - ✅ RAG zinciri başarıyla oluşturuldu.
+2025-11-11 01:35:26,974 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.129:5001
+2025-11-11 01:35:26,974 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-11 01:35:44,008 - INFO - 127.0.0.1 - - [11/Nov/2025 01:35:44] "GET / HTTP/1.1" 200 -
+2025-11-11 01:35:45,549 - INFO - 127.0.0.1 - - [11/Nov/2025 01:35:45] "GET / HTTP/1.1" 200 -
+2025-11-11 01:36:14,403 - INFO - RAG sistemi başlatılıyor... Gömme Modeli: text-embedding-004
+2025-11-11 01:36:14,636 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-11 01:36:14,688 - INFO - Chroma Veritabanı başarıyla yüklendi.
+2025-11-11 01:36:14,689 - INFO - RAG zinciri başarıyla oluşturuldu.
+2025-11-11 01:36:14,713 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.129:5001
+2025-11-11 01:36:14,713 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-11 01:36:21,612 - INFO - 127.0.0.1 - - [11/Nov/2025 01:36:21] "GET / HTTP/1.1" 200 -
+2025-11-11 01:36:53,652 - INFO - 127.0.0.1 - - [11/Nov/2025 01:36:53] "GET / HTTP/1.1" 200 -
+2025-11-11 01:42:51,661 - INFO - --- YENİ SORGULAMA ---
+2025-11-11 01:42:51,662 - INFO - Kullanıcı Sorgusu: 'Plastic surgery procedures'
+2025-11-11 01:42:52,101 - INFO - Dil tespit edildi: en
+2025-11-11 01:42:52,725 - WARNING - No relevant docs were retrieved using the relevance score threshold 0.7
+2025-11-11 01:42:52,725 - WARNING - Benzerlik eşiği (0.70) nedeniyle 'Plastic surgery procedures' sorgusu için belge bulunamadı. Fallback yok.
+2025-11-11 01:42:52,725 - INFO - AI Yanıtı: 'I do not have information about the specific definition of that question in the provided context. I suggest you contact the clinic via their website or WhatsApp for more details.'
+2025-11-11 01:42:52,726 - INFO - 127.0.0.1 - - [11/Nov/2025 01:42:52] "POST /chat HTTP/1.1" 200 -
+2025-11-11 01:43:05,457 - INFO - --- YENİ SORGULAMA ---
+2025-11-11 01:43:05,458 - INFO - Kullanıcı Sorgusu: 'Cost of Plastic Surgery'
+2025-11-11 01:43:05,473 - INFO - Dil tespit edildi: en
+2025-11-11 01:43:07,954 - INFO - AI Yanıtı: 'The cost of breast augmentation can vary significantly depending on several factors, such as the surgeon’s experience, the geographical location of the practice, and the type of implants used. This cost typically includes the surgeon’s fee, anaesthesia, operating room facilities, and post-operative care. However, it is important to note that additional expenses such as prescription medications, medical tests, and clothing may be incurred.
+
+For information on the cost of other plastic surgery procedures or to understand the full extent of the costs involved for breast augmentation and what to expect in terms of financial commitment, please contact SAVA CLINIC via their website or WhatsApp.'
+2025-11-11 01:43:07,957 - INFO - 127.0.0.1 - - [11/Nov/2025 01:43:07] "POST /chat HTTP/1.1" 200 -
+2025-11-12 00:12:47,554 - INFO - 127.0.0.1 - - [12/Nov/2025 00:12:47] "GET / HTTP/1.1" 200 -
+2025-11-12 00:12:51,413 - INFO - --- YENİ SORGULAMA ---
+2025-11-12 00:12:51,413 - INFO - Kullanıcı Sorgusu: 'What is a gastric sleeve ?'
+2025-11-12 00:12:51,453 - INFO - Dil tespit edildi: en
+2025-11-12 00:12:53,572 - INFO - AI Yanıtı: 'Gastric sleeve surgery, also known as sleeve gastrectomy, is a bariatric procedure designed to help individuals achieve significant weight loss. During this surgery, approximately 80% of the stomach is removed, leaving behind a tube-shaped “sleeve.” This reduction in stomach size restricts calorie intake and promotes a feeling of fullness with less food.'
+2025-11-12 00:12:53,575 - INFO - 127.0.0.1 - - [12/Nov/2025 00:12:53] "POST /chat HTTP/1.1" 200 -
+2025-11-12 00:13:32,237 - INFO - --- YENİ SORGULAMA ---
+2025-11-12 00:13:32,238 - INFO - Kullanıcı Sorgusu: 'How is Gastric Bypass Revision Performed?'
+2025-11-12 00:13:32,260 - INFO - Dil tespit edildi: en
+2025-11-12 00:13:34,032 - INFO - AI Yanıtı: 'I do not have information on how Gastric Bypass Revision is performed. Please contact SAVA CLINIC via their website or WhatsApp for more details.'
+2025-11-12 00:13:34,034 - INFO - 127.0.0.1 - - [12/Nov/2025 00:13:34] "POST /chat HTTP/1.1" 200 -
+2025-11-12 00:13:51,373 - INFO - 127.0.0.1 - - [12/Nov/2025 00:13:51] "GET / HTTP/1.1" 200 -
+2025-11-12 00:13:54,809 - INFO - --- YENİ SORGULAMA ---
+2025-11-12 00:13:54,809 - INFO - Kullanıcı Sorgusu: 'How is Gastric Bypass Revision Performed?'
+2025-11-12 00:13:54,834 - INFO - Dil tespit edildi: en
+2025-11-12 00:13:56,553 - INFO - AI Yanıtı: 'I do not have information on how Gastric Bypass Revision is performed. Please contact SAVA CLINIC via their website or WhatsApp for more details.'
+2025-11-12 00:13:56,554 - INFO - 127.0.0.1 - - [12/Nov/2025 00:13:56] "POST /chat HTTP/1.1" 200 -
+2025-11-12 00:16:05,095 - INFO - RAG sistemi başlatılıyor... Gömme Modeli: text-embedding-004
+2025-11-12 00:16:05,361 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-12 00:16:05,427 - INFO - Chroma Veritabanı başarıyla yüklendi.
+2025-11-12 00:16:05,429 - INFO - RAG zinciri başarıyla oluşturuldu.
+2025-11-12 00:16:05,485 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.129:5001
+2025-11-12 00:16:05,485 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-12 00:16:22,271 - INFO - 127.0.0.1 - - [12/Nov/2025 00:16:22] "GET / HTTP/1.1" 200 -
+2025-11-12 00:16:24,360 - INFO - --- YENİ SORGULAMA ---
+2025-11-12 00:16:24,360 - INFO - Kullanıcı Sorgusu: 'How is Gastric Bypass Revision Performed?'
+2025-11-12 00:16:24,671 - INFO - Dil tespit edildi: en
+2025-11-12 00:16:27,288 - INFO - AI Yanıtı: 'I do not have information on how Gastric Bypass Revision is performed. Please contact SAVA CLINIC via their website or WhatsApp for more details.'
+2025-11-12 00:16:27,290 - INFO - 127.0.0.1 - - [12/Nov/2025 00:16:27] "POST /chat HTTP/1.1" 200 -
+2025-11-12 00:19:49,690 - INFO - RAG sistemi başlatılıyor... Gömme Modeli: text-embedding-004
+2025-11-12 00:19:50,040 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-12 00:19:50,076 - INFO - Chroma Veritabanı başarıyla yüklendi.
+2025-11-12 00:19:50,078 - INFO - RAG zinciri başarıyla oluşturuldu.
+2025-11-12 00:19:50,098 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.129:5001
+2025-11-12 00:19:50,098 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-12 00:19:57,941 - INFO - 127.0.0.1 - - [12/Nov/2025 00:19:57] "GET / HTTP/1.1" 200 -
+2025-11-12 00:20:00,514 - INFO - --- YENİ SORGULAMA ---
+2025-11-12 00:20:00,515 - INFO - Kullanıcı Sorgusu: 'How is Gastric Bypass Revision Performed?'
+2025-11-12 00:20:00,820 - INFO - Dil tespit edildi: en
+2025-11-12 00:20:03,088 - INFO - AI Yanıtı: 'I do not have information on how Gastric Bypass Revision is performed. Please contact SAVA CLINIC via their website or WhatsApp for more details.'
+2025-11-12 00:20:03,089 - INFO - 127.0.0.1 - - [12/Nov/2025 00:20:03] "POST /chat HTTP/1.1" 200 -
+2025-11-12 00:20:06,661 - INFO - 127.0.0.1 - - [12/Nov/2025 00:20:06] "GET / HTTP/1.1" 200 -
+2025-11-12 00:20:18,899 - INFO - 192.168.1.129 - - [12/Nov/2025 00:20:18] "GET / HTTP/1.1" 200 -
+2025-11-12 00:20:19,478 - INFO - 192.168.1.129 - - [12/Nov/2025 00:20:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-12 00:20:22,311 - INFO - 127.0.0.1 - - [12/Nov/2025 00:20:22] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-12 00:20:22,316 - INFO - --- YENİ SORGULAMA ---
+2025-11-12 00:20:22,317 - INFO - Kullanıcı Sorgusu: 'How is Gastric Bypass Revision Performed?'
+2025-11-12 00:20:22,342 - INFO - Dil tespit edildi: en
+2025-11-12 00:20:24,147 - INFO - AI Yanıtı: 'I do not have information on how Gastric Bypass Revision is performed. Please contact SAVA CLINIC via their website or WhatsApp for more details.'
+2025-11-12 00:20:24,149 - INFO - 127.0.0.1 - - [12/Nov/2025 00:20:24] "POST /chat HTTP/1.1" 200 -
+2025-11-12 00:21:25,539 - INFO - --- YENİ SORGULAMA ---
+2025-11-12 00:21:25,541 - INFO - Kullanıcı Sorgusu: 'What is Gastric Bypass Revision?'
+2025-11-12 00:21:25,554 - INFO - Dil tespit edildi: en
+2025-11-12 00:21:29,894 - INFO - AI Yanıtı: 'Gastric Bypass Revision surgery addresses complications or weight regain by refining previous procedures to enhance weight loss outcomes and improve overall health.'
+2025-11-12 00:21:29,895 - INFO - 127.0.0.1 - - [12/Nov/2025 00:21:29] "POST /chat HTTP/1.1" 200 -
+2025-11-12 00:22:13,415 - INFO - --- YENİ SORGULAMA ---
+2025-11-12 00:22:13,416 - INFO - Kullanıcı Sorgusu: 'Results of Gastric Bypass Surgery'
+2025-11-12 00:22:13,430 - INFO - Dil tespit edildi: en
+2025-11-12 00:22:14,936 - INFO - AI Yanıtı: 'Gastric bypass surgery leads to permanent weight loss in the long term due to reduced food intake and limited calorie absorption. It also provides metabolic improvements, such as improvements in type 2 diabetes and other obesity-related health problems.'
+2025-11-12 00:22:14,938 - INFO - 127.0.0.1 - - [12/Nov/2025 00:22:14] "POST /chat HTTP/1.1" 200 -
+2025-11-12 00:22:53,457 - INFO - --- YENİ SORGULAMA ---
+2025-11-12 00:22:53,458 - INFO - Kullanıcı Sorgusu: 'Who is Suitable for Gastric Bypass Revision?'
+2025-11-12 00:22:53,476 - INFO - Dil tespit edildi: en
+2025-11-12 00:22:55,311 - INFO - AI Yanıtı: 'I do not have information on Gastric Bypass Revision in the provided context. Please contact SAVA CLINIC via their website or WhatsApp for more details on this specific topic.'
+2025-11-12 00:22:55,312 - INFO - 127.0.0.1 - - [12/Nov/2025 00:22:55] "POST /chat HTTP/1.1" 200 -
+2025-11-12 00:24:54,321 - INFO - --- YENİ SORGULAMA ---
+2025-11-12 00:24:54,324 - INFO - Kullanıcı Sorgusu: 'What is a facelift'
+2025-11-12 00:24:54,351 - INFO - Dil tespit edildi: en
+2025-11-12 00:24:54,788 - WARNING - No relevant docs were retrieved using the relevance score threshold 0.7
+2025-11-12 00:24:54,804 - WARNING - Benzerlik eşiği (0.70) nedeniyle 'What is a facelift' sorgusu için belge bulunamadı. Fallback yok.
+2025-11-12 00:24:54,804 - INFO - AI Yanıtı: 'I do not have information about the specific definition of that question in the provided context. I suggest you contact the clinic via their website or WhatsApp for more details.'
+2025-11-12 00:24:54,805 - INFO - 127.0.0.1 - - [12/Nov/2025 00:24:54] "POST /chat HTTP/1.1" 200 -
+2025-11-12 00:24:59,022 - INFO - 127.0.0.1 - - [12/Nov/2025 00:24:59] "GET / HTTP/1.1" 200 -
+2025-11-12 00:25:01,344 - INFO - --- YENİ SORGULAMA ---
+2025-11-12 00:25:01,346 - INFO - Kullanıcı Sorgusu: 'What is a facelift'
+2025-11-12 00:25:01,351 - INFO - Dil tespit edildi: en
+2025-11-12 00:25:01,842 - WARNING - No relevant docs were retrieved using the relevance score threshold 0.7
+2025-11-12 00:25:01,842 - WARNING - Benzerlik eşiği (0.70) nedeniyle 'What is a facelift' sorgusu için belge bulunamadı. Fallback yok.
+2025-11-12 00:25:01,842 - INFO - AI Yanıtı: 'I do not have information about the specific definition of that question in the provided context. I suggest you contact the clinic via their website or WhatsApp for more details.'
+2025-11-12 00:25:01,846 - INFO - 127.0.0.1 - - [12/Nov/2025 00:25:01] "POST /chat HTTP/1.1" 200 -
+2025-11-12 00:25:18,457 - INFO - --- YENİ SORGULAMA ---
+2025-11-12 00:25:18,458 - INFO - Kullanıcı Sorgusu: 'Lower face lift'
+2025-11-12 00:25:18,477 - INFO - Dil tespit edildi: en
+2025-11-12 00:25:21,475 - WARNING - No relevant docs were retrieved using the relevance score threshold 0.7
+2025-11-12 00:25:21,475 - WARNING - Benzerlik eşiği (0.70) nedeniyle 'Lower face lift' sorgusu için belge bulunamadı. Fallback yok.
+2025-11-12 00:25:21,475 - INFO - AI Yanıtı: 'I do not have information about the specific definition of that question in the provided context. I suggest you contact the clinic via their website or WhatsApp for more details.'
+2025-11-12 00:25:21,478 - INFO - 127.0.0.1 - - [12/Nov/2025 00:25:21] "POST /chat HTTP/1.1" 200 -
+2025-11-12 00:27:39,240 - INFO - RAG sistemi başlatılıyor... Gömme Modeli: text-embedding-004
+2025-11-12 00:27:39,513 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-12 00:27:39,587 - INFO - Chroma Veritabanı başarıyla yüklendi.
+2025-11-12 00:27:39,589 - INFO - RAG zinciri başarıyla oluşturuldu.
+2025-11-12 00:27:39,654 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.129:5001
+2025-11-12 00:27:39,654 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-12 00:27:51,335 - INFO - 127.0.0.1 - - [12/Nov/2025 00:27:51] "GET / HTTP/1.1" 200 -
+2025-11-12 00:28:03,113 - INFO - --- YENİ SORGULAMA ---
+2025-11-12 00:28:03,114 - INFO - Kullanıcı Sorgusu: 'What is a facelift'
+2025-11-12 00:28:03,470 - INFO - Dil tespit edildi: en
+2025-11-12 00:28:05,800 - INFO - AI Yanıtı: 'I do not have information on what a facelift is within the provided context. I suggest contacting SAVA CLINIC via their website or WhatsApp for more details.'
+2025-11-12 00:28:05,801 - INFO - 127.0.0.1 - - [12/Nov/2025 00:28:05] "POST /chat HTTP/1.1" 200 -
+2025-11-12 00:28:22,391 - INFO - 127.0.0.1 - - [12/Nov/2025 00:28:22] "GET / HTTP/1.1" 200 -
+2025-11-12 00:28:25,487 - INFO - --- YENİ SORGULAMA ---
+2025-11-12 00:28:25,488 - INFO - Kullanıcı Sorgusu: 'What is a facelift'
+2025-11-12 00:28:25,493 - INFO - Dil tespit edildi: en
+2025-11-12 00:28:27,803 - INFO - AI Yanıtı: 'I apologize, but I do not have information on what a facelift is in the provided context. Please contact SAVA CLINIC via their website or WhatsApp for more details on this specific topic.'
+2025-11-12 00:28:27,805 - INFO - 127.0.0.1 - - [12/Nov/2025 00:28:27] "POST /chat HTTP/1.1" 200 -
+2025-11-12 00:30:08,062 - INFO - RAG sistemi başlatılıyor... Gömme Modeli: text-embedding-004
+2025-11-12 00:30:08,330 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-12 00:30:08,392 - INFO - Chroma Veritabanı başarıyla yüklendi.
+2025-11-12 00:30:08,394 - INFO - RAG zinciri başarıyla oluşturuldu.
+2025-11-12 00:30:08,417 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.129:5001
+2025-11-12 00:30:08,417 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-12 00:30:18,799 - INFO - 127.0.0.1 - - [12/Nov/2025 00:30:18] "GET / HTTP/1.1" 200 -
+2025-11-12 00:30:20,606 - INFO - --- YENİ SORGULAMA ---
+2025-11-12 00:30:20,606 - INFO - Kullanıcı Sorgusu: 'What is a facelift'
+2025-11-12 00:30:20,891 - INFO - Dil tespit edildi: en
+2025-11-12 00:30:23,584 - INFO - AI Yanıtı: 'I apologize, but I do not have information on what a facelift is in the provided context. I recommend contacting SAVA CLINIC via their website or WhatsApp for more details on this specific topic.'
+2025-11-12 00:30:23,584 - INFO - 127.0.0.1 - - [12/Nov/2025 00:30:23] "POST /chat HTTP/1.1" 200 -
+2025-11-12 00:38:41,145 - INFO - --- YENİ SORGULAMA ---
+2025-11-12 00:38:41,148 - INFO - Kullanıcı Sorgusu: 'What is a mommy makeover?'
+2025-11-12 00:38:41,184 - INFO - Dil tespit edildi: en
+2025-11-12 00:38:44,829 - INFO - AI Yanıtı: 'I do not have information on "mommy makeover" in the provided context. Please feel free to contact the clinic via our website or WhatsApp for more details.'
+2025-11-12 00:38:44,835 - INFO - 127.0.0.1 - - [12/Nov/2025 00:38:44] "POST /chat HTTP/1.1" 200 -
+2025-11-12 00:39:20,116 - INFO - --- YENİ SORGULAMA ---
+2025-11-12 00:39:20,117 - INFO - Kullanıcı Sorgusu: 'What is breast augmentation?'
+2025-11-12 00:39:20,134 - INFO - Dil tespit edildi: en
+2025-11-12 00:39:24,042 - INFO - AI Yanıtı: 'Breast augmentation, also known as augmentation mammoplasty, is a surgical procedure to increase the size, shape, or fullness of the breast. It is a cosmetic procedure designed to enlarge and enhance the appearance of the breasts, often performed under general anaesthesia. This procedure can help restore volume lost due to pregnancy or weight loss, or achieve a desired silhouette, ultimately boosting self-confidence.'
+2025-11-12 00:39:24,044 - INFO - 127.0.0.1 - - [12/Nov/2025 00:39:24] "POST /chat HTTP/1.1" 200 -
+2025-11-12 00:39:40,558 - INFO - --- YENİ SORGULAMA ---
+2025-11-12 00:39:40,559 - INFO - Kullanıcı Sorgusu: 'What is included in a mommy makeover'
+2025-11-12 00:39:40,585 - INFO - Dil tespit edildi: en
+2025-11-12 00:39:42,965 - INFO - AI Yanıtı: 'I do not have information on what is included in a mommy makeover. Please contact the clinic via their website or WhatsApp for more details.'
+2025-11-12 00:39:42,967 - INFO - 127.0.0.1 - - [12/Nov/2025 00:39:42] "POST /chat HTTP/1.1" 200 -
+2025-11-12 00:40:14,358 - INFO - --- YENİ SORGULAMA ---
+2025-11-12 00:40:14,359 - INFO - Kullanıcı Sorgusu: 'Breast augmentation surgery'
+2025-11-12 00:40:14,386 - INFO - Dil tespit edildi: en
+2025-11-12 00:40:18,207 - INFO - AI Yanıtı: 'Breast augmentation surgery, also known as augmentation mammoplasty, is a cosmetic procedure designed to enlarge and enhance the appearance of the breasts, increasing their size, shape, or fullness. It is performed under general anaesthesia.
+
+The procedure typically involves using breast implants, which can be silicone gel or saline, or through fat transfer, where fat is taken from another part of the patient’s body and injected into the breasts. The goal of the procedure can vary, including enhancing the breast’s overall appearance, improving symmetry, or restoring breast volume lost after weight reduction or pregnancy.
+
+The surgery is performed by making incisions in inconspicuous areas to minimize visible scarring and is tailored to meet each patient’s aesthetic desires and goals. It is primarily for women with underdeveloped or naturally small breasts, or those seeking to enhance breast size following weight fluctuations or post-pregnancy changes. Breast augmentation can help improve self-confidence and body image.'
+2025-11-12 00:40:18,209 - INFO - 127.0.0.1 - - [12/Nov/2025 00:40:18] "POST /chat HTTP/1.1" 200 -
+2025-11-12 00:40:39,705 - INFO - --- YENİ SORGULAMA ---
+2025-11-12 00:40:39,706 - INFO - Kullanıcı Sorgusu: 'Breast Implants'
+2025-11-12 00:40:39,718 - INFO - Dil tespit edildi: en
+2025-11-12 00:40:44,011 - INFO - AI Yanıtı: 'Breast implants are silicone-filled prosthetics used for breast reconstruction after mastectomy, a treatment for breast cancer. They consist of an impermeable silicone shell and can be filled with silicone gel or saline solution. These implants come in various types, including round or anatomical (teardrop) shapes, and can have different surface textures such as smooth, textured, or covered with a sponge-like material.
+
+The primary uses of breast implants include:
+*   **Breast augmentation surgeries:** For women with underdeveloped or naturally small breasts, or those seeking to enhance breast size following weight fluctuations or post-pregnancy changes. This procedure, known as augmentation mammoplasty, aims to increase the size, shape, or fullness of the breasts, improve symmetry, or restore lost breast volume.
+*   **Breast reconstruction procedures:** Where breast tissue has been removed due to cancer, either concurrently with mastectomy or at a later stage post-treatment.'
+2025-11-12 00:40:44,013 - INFO - 127.0.0.1 - - [12/Nov/2025 00:40:44] "POST /chat HTTP/1.1" 200 -
+2025-11-12 00:41:12,971 - INFO - --- YENİ SORGULAMA ---
+2025-11-12 00:41:12,973 - INFO - Kullanıcı Sorgusu: 'What Are the Risks of Breast Augmentation?'
+2025-11-12 00:41:12,994 - INFO - Dil tespit edildi: en
+2025-11-12 00:41:15,358 - INFO - AI Yanıtı: 'Choosing to undergo breast augmentation involves understanding potential risks and complications. These include:
+
+*   Capsular contracture (hardening of the tissue around the implant)
+*   Hematoma
+*   Implant leakage or rupture
+*   Infection
+*   Persistent pain
+*   Poor scarring
+*   Possibility of revision surgery
+*   Wrinkling of the skin over the implant
+*   Incorrect positioning of the implant
+
+These risks, among others, will be thoroughly discussed with you prior to obtaining your consent. It is crucial to address all your questions and concerns directly with your plastic surgeon.'
+2025-11-12 00:41:15,359 - INFO - 127.0.0.1 - - [12/Nov/2025 00:41:15] "POST /chat HTTP/1.1" 200 -
+2025-11-12 00:41:33,589 - INFO - --- YENİ SORGULAMA ---
+2025-11-12 00:41:33,590 - INFO - Kullanıcı Sorgusu: 'Breast augmentation recovery'
+2025-11-12 00:41:33,603 - INFO - Dil tespit edildi: en
+2025-11-12 00:41:35,151 - INFO - AI Yanıtı: 'A full recovery period following breast implant surgery generally spans four to six weeks. It is crucial to adhere to your surgeon’s post-operative instructions to promote proper healing and reduce the risk of complications. During this time, patients should avoid strenuous physical activities.'
+2025-11-12 00:41:35,152 - INFO - 127.0.0.1 - - [12/Nov/2025 00:41:35] "POST /chat HTTP/1.1" 200 -
+2025-11-12 00:42:11,442 - INFO - --- YENİ SORGULAMA ---
+2025-11-12 00:42:11,443 - INFO - Kullanıcı Sorgusu: 'Breast augmentation cost'
+2025-11-12 00:42:11,476 - INFO - Dil tespit edildi: en
+2025-11-12 00:42:14,534 - INFO - AI Yanıtı: 'The cost of breast augmentation can vary significantly based on factors such as the surgeon’s experience, the geographical location of the practice, and the type of implants used. This cost typically includes the surgeon’s fee, anaesthesia, operating room facilities, and post-operative care. However, additional expenses like prescription medications, medical tests, and clothing may be incurred.
+
+To understand the full extent of the costs involved and what to expect in terms of financial commitment, please contact us for detailed information via our website or WhatsApp.'
+2025-11-12 00:42:14,535 - INFO - 127.0.0.1 - - [12/Nov/2025 00:42:14] "POST /chat HTTP/1.1" 200 -
+2025-11-12 01:00:27,908 - INFO - RAG sistemi başlatılıyor... Gömme Modeli: text-embedding-004
+2025-11-12 01:00:28,187 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-12 01:00:28,262 - INFO - Chroma Veritabanı başarıyla yüklendi.
+2025-11-12 01:00:28,264 - INFO - RAG zinciri başarıyla oluşturuldu.
+2025-11-12 01:00:28,310 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.129:5001
+2025-11-12 01:00:28,310 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-12 01:00:30,642 - INFO - 127.0.0.1 - - [12/Nov/2025 01:00:30] "GET / HTTP/1.1" 200 -
+2025-11-12 01:00:35,497 - INFO - 127.0.0.1 - - [12/Nov/2025 01:00:35] "GET / HTTP/1.1" 200 -
+2025-11-12 01:00:38,278 - INFO - --- YENİ SORGULAMA ---
+2025-11-12 01:00:38,278 - INFO - Kullanıcı Sorgusu: 'Qué incluye un mommy makeover'
+2025-11-12 01:00:38,564 - INFO - Dil tespit edildi: fr
+2025-11-12 01:00:42,189 - INFO - AI Yanıtı: 'Je n'ai pas d'informations sur ce sujet spécifique dans le contexte fourni. Je vous suggère de contacter la clinique via leur site web ou WhatsApp pour obtenir plus de détails.'
+2025-11-12 01:00:42,195 - INFO - 127.0.0.1 - - [12/Nov/2025 01:00:42] "POST /chat HTTP/1.1" 200 -
+2025-11-12 01:00:56,143 - INFO - --- YENİ SORGULAMA ---
+2025-11-12 01:00:56,144 - INFO - Kullanıcı Sorgusu: '¿Qué ocurre durante el proceso de curación?'
+2025-11-12 01:00:56,153 - INFO - Dil tespit edildi: es
+2025-11-12 01:01:01,541 - INFO - AI Yanıtı: 'Durante el proceso de curación, es posible que se receten analgésicos para controlar el dolor postoperatorio. Es fundamental seguir las indicaciones médicas respecto a la medicación para el dolor y otros suplementos nutricionales según sea necesario. También es importante mantener las incisiones limpias y secas para prevenir infecciones, y se puede recomendar un seguimiento cercano con el equipo médico para verificar la cicatrización de las incisiones.'
+2025-11-12 01:01:01,545 - INFO - 127.0.0.1 - - [12/Nov/2025 01:01:01] "POST /chat HTTP/1.1" 200 -
+2025-11-12 01:01:38,043 - INFO - --- YENİ SORGULAMA ---
+2025-11-12 01:01:38,044 - INFO - Kullanıcı Sorgusu: '¿Qué es la reconstrucción mamaria?'
+2025-11-12 01:01:38,072 - INFO - Dil tespit edildi: es
+2025-11-12 01:01:40,861 - INFO - AI Yanıtı: 'La reconstrucción mamaria hace referencia a los procedimientos quirúrgicos destinados a recrear un montículo mamario tras una mastectomía (extirpación quirúrgica de la mama) o una tumorectomía (extirpación parcial del tejido mamario). El objetivo es restaurar la forma, el tamaño, la simetría y el aspecto de la mama, lo que puede ayudar a mejorar el bienestar físico y emocional de las personas que se han sometido a un tratamiento contra el cáncer de mama o tienen deformidades congénitas.'
+2025-11-12 01:01:40,863 - INFO - 127.0.0.1 - - [12/Nov/2025 01:01:40] "POST /chat HTTP/1.1" 200 -
+2025-11-12 01:02:05,134 - INFO - --- YENİ SORGULAMA ---
+2025-11-12 01:02:05,135 - INFO - Kullanıcı Sorgusu: 'Cicatrices de mastectomía'
+2025-11-12 01:02:05,161 - INFO - Dil tespit edildi: es
+2025-11-12 01:02:07,277 - INFO - AI Yanıtı: 'Las cicatrices de mastectomía son las marcas que quedan en la piel después de una mastectomía, un procedimiento quirúrgico para extirpar uno o ambos senos, generalmente para tratar o prevenir el cáncer de mama. El aspecto de estas cicatrices varía según el tipo de mastectomía realizada y los procesos de cicatrización individuales. Con el tiempo, pueden atenuarse, pero suelen permanecer visibles en cierta medida.
+
+Existen tratamientos como el masaje de cicatrices, las láminas de silicona, la terapia láser y los tratamientos tópicos que pueden ayudar a minimizar su apariencia. Además, la cirugía reconstructiva a veces puede contribuir a mejorarlas.'
+2025-11-12 01:02:07,278 - INFO - 127.0.0.1 - - [12/Nov/2025 01:02:07] "POST /chat HTTP/1.1" 200 -
+2025-11-12 01:02:24,460 - INFO - --- YENİ SORGULAMA ---
+2025-11-12 01:02:24,461 - INFO - Kullanıcı Sorgusu: 'Mejora de la simetría en la reconstrucción mamaria'
+2025-11-12 01:02:24,483 - INFO - Dil tespit edildi: es
+2025-11-12 01:02:26,722 - INFO - AI Yanıtı: 'Para lograr simetría en el tamaño, la forma y la posición en la reconstrucción mamaria, especialmente si solo una mama está afectada, pueden recomendarse procedimientos adicionales. Estos incluyen la elevación, la reducción o el aumento de la mama opuesta.'
+2025-11-12 01:02:26,723 - INFO - 127.0.0.1 - - [12/Nov/2025 01:02:26] "POST /chat HTTP/1.1" 200 -
+2025-11-12 01:03:22,711 - INFO - --- YENİ SORGULAMA ---
+2025-11-12 01:03:22,713 - INFO - Kullanıcı Sorgusu: '¿Quién es un buen candidato para la bichectomía?'
+2025-11-12 01:03:22,737 - INFO - Dil tespit edildi: es
+2025-11-12 01:03:24,793 - INFO - AI Yanıtı: 'No tengo información sobre quién es un buen candidato para la bichectomía. Te sugiero que te pongas en contacto con la clínica a través de su sitio web o WhatsApp para obtener más detalles.'
+2025-11-12 01:03:24,796 - INFO - 127.0.0.1 - - [12/Nov/2025 01:03:24] "POST /chat HTTP/1.1" 200 -
+2025-11-12 01:22:55,180 - INFO - RAG sistemi başlatılıyor... Gömme Modeli: text-embedding-004
+2025-11-12 01:22:55,472 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-12 01:22:55,565 - INFO - Chroma Veritabanı başarıyla yüklendi.
+2025-11-12 01:22:55,567 - INFO - RAG zinciri başarıyla oluşturuldu.
+2025-11-12 01:22:55,604 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.129:5001
+2025-11-12 01:22:55,605 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-12 01:23:03,546 - INFO - 127.0.0.1 - - [12/Nov/2025 01:23:03] "GET / HTTP/1.1" 200 -
+2025-11-12 01:23:06,829 - INFO - --- YENİ SORGULAMA ---
+2025-11-12 01:23:06,829 - INFO - Kullanıcı Sorgusu: '¿Quién es un buen candidato para la bichectomía?'
+2025-11-12 01:23:07,107 - INFO - Dil tespit edildi: es
+2025-11-12 01:23:09,979 - INFO - AI Yanıtı: 'No tengo información sobre quién es un buen candidato para la bichectomía en el contexto proporcionado. Le sugiero que se ponga en contacto con la clínica a través de su sitio web o WhatsApp para obtener más detalles.'
+2025-11-12 01:23:09,982 - INFO - 127.0.0.1 - - [12/Nov/2025 01:23:09] "POST /chat HTTP/1.1" 200 -
+2025-11-12 01:56:39,236 - INFO - 127.0.0.1 - - [12/Nov/2025 01:56:39] "GET / HTTP/1.1" 200 -
+2025-11-12 03:53:40,819 - INFO - RAG sistemi başlatılıyor... Gömme Modeli: text-embedding-004
+2025-11-12 03:53:41,099 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-12 03:53:41,211 - INFO - Chroma Veritabanı başarıyla yüklendi.
+2025-11-12 03:53:41,213 - INFO - RAG zinciri başarıyla oluşturuldu.
+2025-11-12 03:53:41,244 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.129:5001
+2025-11-12 03:53:41,244 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-12 03:54:26,301 - INFO - 127.0.0.1 - - [12/Nov/2025 03:54:26] "GET / HTTP/1.1" 200 -
+2025-11-12 03:54:27,857 - INFO - 127.0.0.1 - - [12/Nov/2025 03:54:27] "GET / HTTP/1.1" 200 -
+2025-11-12 03:54:35,698 - INFO - --- YENİ SORGULAMA ---
+2025-11-12 03:54:35,699 - INFO - Kullanıcı Sorgusu: 'Risks of Plastic Surgery'
+2025-11-12 03:54:36,035 - INFO - Dil tespit edildi: en
+2025-11-12 03:54:39,522 - INFO - AI Yanıtı: 'Like any surgical intervention, plastic surgery procedures carry risks. These risks can vary depending on the type of procedure, the surgeon’s experience, and the patient’s overall health. Major surgeries generally pose more risks than minor, localized procedures.
+
+Potential risks include:
+*   Anesthesia complications
+*   Infection risk
+*   Bleeding
+*   Wound healing issues
+*   Scarring
+*   Sensory changes post-surgery
+
+These potential risks should be thoroughly evaluated and discussed with the patient before surgery. With proper precautions and guidance from the surgical team, risks can be minimized and successful outcomes achieved.'
+2025-11-12 03:54:39,524 - INFO - 127.0.0.1 - - [12/Nov/2025 03:54:39] "POST /chat HTTP/1.1" 200 -
+2025-11-12 03:55:14,243 - INFO - --- YENİ SORGULAMA ---
+2025-11-12 03:55:14,244 - INFO - Kullanıcı Sorgusu: 'What should I expect during a consultation for arm lift surgery?'
+2025-11-12 03:55:14,270 - INFO - Dil tespit edildi: en
+2025-11-12 03:55:17,308 - INFO - AI Yanıtı: 'During a consultation for arm lift surgery, you should be prepared to discuss several key aspects:
+
+*   **Your Surgical Goals:** Communicate what you hope to achieve with the arm lift surgery, such as improving arm contour, reducing sagging skin, or enhancing overall appearance.
+*   **Medical History:** Provide information about your medical conditions and drug allergies.
+*   **Previous Surgeries:** Detail any previous surgeries you've undergone.
+
+Your surgeon will also:
+
+*   **Evaluate Your Health:** Assess your overall health status and any pre-existing conditions or risk factors that could affect surgery.
+*   **Take Photographs:** Document your current arm appearance to aid in surgical planning.
+*   **Discuss Options and Outcomes:** Review different arm lift techniques and discuss what you can realistically expect from the procedure.'
+2025-11-12 03:55:17,311 - INFO - 127.0.0.1 - - [12/Nov/2025 03:55:17] "POST /chat HTTP/1.1" 200 -
+2025-11-12 03:55:37,158 - INFO - --- YENİ SORGULAMA ---
+2025-11-12 03:55:37,159 - INFO - Kullanıcı Sorgusu: 'What is a thigh lift surgery?'
+2025-11-12 03:55:37,169 - INFO - Dil tespit edildi: en
+2025-11-12 03:55:38,912 - INFO - AI Yanıtı: 'Thigh lift surgery is designed to reshape the thighs by reducing excess skin and fat, resulting in smoother skin and improved contours. It is tailored to each individual’s needs and goals, aiming to provide a firmer and more proportionate lower body appearance.'
+2025-11-12 03:55:38,913 - INFO - 127.0.0.1 - - [12/Nov/2025 03:55:38] "POST /chat HTTP/1.1" 200 -
+2025-11-12 03:56:17,893 - INFO - --- YENİ SORGULAMA ---
+2025-11-12 03:56:17,895 - INFO - Kullanıcı Sorgusu: 'Who Can Have Gastric Bypass Surgery?'
+2025-11-12 03:56:17,906 - INFO - Dil tespit edildi: en
+2025-11-12 03:56:21,055 - INFO - AI Yanıtı: 'Individuals who can have Gastric Bypass Surgery include:
+
+*   Those between the ages of 18-65. Surgery may also be considered for those under 18 and over 65 in special cases and if the board decides.
+*   Those with a body mass index over 35.
+*   Those with a body mass index between 30-35 and additional diseases related to weight (such as hypertension, cholesterol, diabetes, sleep apnea, heart failure, metabolic syndrome, etc.).
+*   Those who have tried other treatment methods to lose weight and failed.
+*   Those who can handle surgery.'
+2025-11-12 03:56:21,056 - INFO - 127.0.0.1 - - [12/Nov/2025 03:56:21] "POST /chat HTTP/1.1" 200 -
+2025-11-13 02:08:35,043 - INFO - 127.0.0.1 - - [13/Nov/2025 02:08:35] "GET / HTTP/1.1" 200 -
+2025-11-13 02:08:37,364 - INFO - --- YENİ SORGULAMA ---
+2025-11-13 02:08:37,367 - INFO - Kullanıcı Sorgusu: 'What is included in a mommy makeover'
+2025-11-13 02:08:37,409 - INFO - Dil tespit edildi: en
+2025-11-13 02:08:40,133 - INFO - AI Yanıtı: 'A Mommy Makeover is a comprehensive cosmetic surgery plan designed to help women regain their pre-pregnancy body shape. It typically includes a combination of procedures tailored to each patient's needs, often focusing on areas like the abdomen, breasts, and thighs. Common procedures are:
+
+*   **Tummy Tuck:** Removes excess skin and tightens abdominal muscles.
+*   **Breast Augmentation or Lift:** Restores breast volume and shape.
+*   **Liposuction:** Eliminates stubborn fat deposits.'
+2025-11-13 02:08:40,137 - INFO - 127.0.0.1 - - [13/Nov/2025 02:08:40] "POST /chat HTTP/1.1" 200 -
+2025-11-13 02:09:04,847 - INFO - --- YENİ SORGULAMA ---
+2025-11-13 02:09:04,851 - INFO - Kullanıcı Sorgusu: '¿De qué depende el tiempo de recuperación?'
+2025-11-13 02:09:04,879 - INFO - Dil tespit edildi: es
+2025-11-13 02:09:06,721 - INFO - AI Yanıtı: 'No tengo información sobre de qué depende el tiempo de recuperación en el contexto proporcionado.
+
+Le sugiero que se ponga en contacto con la clínica a través de su sitio web o WhatsApp para obtener más detalles.'
+2025-11-13 02:09:06,727 - INFO - 127.0.0.1 - - [13/Nov/2025 02:09:06] "POST /chat HTTP/1.1" 200 -
+2025-11-13 02:09:33,623 - INFO - --- YENİ SORGULAMA ---
+2025-11-13 02:09:33,624 - INFO - Kullanıcı Sorgusu: '¿Qué ocurre durante el proceso de curación?'
+2025-11-13 02:09:33,654 - INFO - Dil tespit edildi: es
+2025-11-13 02:09:36,177 - INFO - AI Yanıtı: 'Durante el proceso de curación, es posible que se receten analgésicos para controlar el dolor postoperatorio, y es fundamental seguir las indicaciones médicas sobre la medicación y los suplementos nutricionales. También es importante mantener las incisiones limpias y secas para prevenir infecciones, y se puede recomendar un seguimiento cercano con el equipo médico para verificar la cicatrización de las incisiones.'
+2025-11-13 02:09:36,179 - INFO - 127.0.0.1 - - [13/Nov/2025 02:09:36] "POST /chat HTTP/1.1" 200 -
+2025-11-13 02:09:49,009 - INFO - --- YENİ SORGULAMA ---
+2025-11-13 02:09:49,010 - INFO - Kullanıcı Sorgusu: '¿Cuánto dura la recuperación total?'
+2025-11-13 02:09:49,060 - INFO - Dil tespit edildi: es
+2025-11-13 02:09:59,998 - INFO - AI Yanıtı: 'Se suele tardar entre seis meses y un año en ver los resultados definitivos y en que el cuerpo se recupere por completo.'
+2025-11-13 02:10:00,027 - INFO - 127.0.0.1 - - [13/Nov/2025 02:10:00] "POST /chat HTTP/1.1" 200 -
+2025-11-13 02:10:27,774 - INFO - --- YENİ SORGULAMA ---
+2025-11-13 02:10:27,778 - INFO - Kullanıcı Sorgusu: 'Mommy makeover Turquía'
+2025-11-13 02:10:27,798 - WARNING - Tespit edilen dil (sk) desteklenmiyor. Varsayılan dil (en) kullanılıyor.
+2025-11-13 02:10:29,993 - INFO - AI Yanıtı: 'Mommy Makeover in Turkey has become a popular choice for women seeking to restore their appearance. The cost of a Mommy Makeover can vary depending on factors such as the expertise of the clinic, its geographical location, and additional fees for anesthesia, facility costs, and post-operative care. The specific procedures included in a Mommy Makeover also affect the total cost, as each treatment involves different expenses.
+
+For detailed information about pricing, please contact us directly.'
+2025-11-13 02:10:29,995 - INFO - 127.0.0.1 - - [13/Nov/2025 02:10:29] "POST /chat HTTP/1.1" 200 -
+2025-11-13 02:11:08,288 - INFO - --- YENİ SORGULAMA ---
+2025-11-13 02:11:08,289 - INFO - Kullanıcı Sorgusu: 'Vreme oporavka od preobrazbe mame: Šta očekivati?'
+2025-11-13 02:11:08,327 - WARNING - Tespit edilen dil (sl) desteklenmiyor. Varsayılan dil (en) kullanılıyor.
+2025-11-13 02:11:08,737 - WARNING - No relevant docs were retrieved using the relevance score threshold 0.65
+2025-11-13 02:11:08,773 - WARNING - Benzerlik eşiği (0.65) nedeniyle 'Vreme oporavka od preobrazbe mame: Šta očekivati?' sorgusu için belge bulunamadı.
+2025-11-13 02:11:08,773 - INFO - AI Yanıtı: 'I do not have information about the specific definition of that question in the provided context. I suggest you contact the clinic via their website or WhatsApp for more details.'
+2025-11-13 02:11:08,774 - INFO - 127.0.0.1 - - [13/Nov/2025 02:11:08] "POST /chat HTTP/1.1" 200 -
+2025-11-13 02:11:31,113 - INFO - --- YENİ SORGULAMA ---
+2025-11-13 02:11:31,115 - INFO - Kullanıcı Sorgusu: 'Koliko dugo traje potpuni oporavak?'
+2025-11-13 02:11:31,151 - WARNING - Tespit edilen dil (hr) desteklenmiyor. Varsayılan dil (en) kullanılıyor.
+2025-11-13 02:11:31,566 - WARNING - No relevant docs were retrieved using the relevance score threshold 0.65
+2025-11-13 02:11:31,566 - WARNING - Benzerlik eşiği (0.65) nedeniyle 'Koliko dugo traje potpuni oporavak?' sorgusu için belge bulunamadı.
+2025-11-13 02:11:31,566 - INFO - AI Yanıtı: 'I do not have information about the specific definition of that question in the provided context. I suggest you contact the clinic via their website or WhatsApp for more details.'
+2025-11-13 02:11:31,572 - INFO - 127.0.0.1 - - [13/Nov/2025 02:11:31] "POST /chat HTTP/1.1" 200 -
+2025-11-13 03:22:39,708 - INFO - RAG sistemi başlatılıyor... Gömme Modeli: text-embedding-004
+2025-11-13 03:22:40,046 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-13 03:22:40,149 - INFO - Chroma Veritabanı başarıyla yüklendi.
+2025-11-13 03:22:40,151 - INFO - RAG zinciri başarıyla oluşturuldu.
+2025-11-13 03:22:40,194 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.129:5001
+2025-11-13 03:22:40,194 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-13 17:07:47,847 - INFO - --- YENİ SORGULAMA ---
+2025-11-13 17:07:47,852 - INFO - Kullanıcı Sorgusu: 'Šta je bišektomija?'
+2025-11-13 17:07:48,486 - WARNING - Tespit edilen dil (sl) desteklenmiyor. Varsayılan dil (en) kullanılıyor.
+2025-11-13 17:07:51,810 - INFO - AI Yanıtı: 'I do not have information on bichectomy in the provided context. Please contact SAVA CLINIC via their website or WhatsApp for more details on this specific topic.'
+2025-11-13 17:07:51,812 - INFO - 127.0.0.1 - - [13/Nov/2025 17:07:51] "POST /chat HTTP/1.1" 200 -
+2025-11-13 17:07:54,417 - INFO - 127.0.0.1 - - [13/Nov/2025 17:07:54] "GET / HTTP/1.1" 200 -
+2025-11-13 17:07:56,832 - INFO - --- YENİ SORGULAMA ---
+2025-11-13 17:07:56,833 - INFO - Kullanıcı Sorgusu: 'Šta je bišektomija?'
+2025-11-13 17:07:56,854 - WARNING - Tespit edilen dil (sl) desteklenmiyor. Varsayılan dil (en) kullanılıyor.
+2025-11-13 17:08:00,207 - INFO - AI Yanıtı: 'I do not have information on bichectomy in the provided context. Please contact SAVA CLINIC via their website or WhatsApp for more information on this specific topic.'
+2025-11-13 17:08:00,209 - INFO - 127.0.0.1 - - [13/Nov/2025 17:08:00] "POST /chat HTTP/1.1" 200 -
+2025-11-13 17:08:29,351 - INFO - --- YENİ SORGULAMA ---
+2025-11-13 17:08:29,352 - INFO - Kullanıcı Sorgusu: '¿Qué es la bichectomía?'
+2025-11-13 17:08:29,366 - INFO - Dil tespit edildi: es
+2025-11-13 17:08:31,036 - INFO - AI Yanıtı: 'No tengo información sobre la bichectomía en el contexto proporcionado. Te sugiero contactar a la clínica a través de su sitio web o WhatsApp para obtener más detalles.'
+2025-11-13 17:08:31,038 - INFO - 127.0.0.1 - - [13/Nov/2025 17:08:31] "POST /chat HTTP/1.1" 200 -
+2025-11-13 17:09:08,959 - INFO - --- YENİ SORGULAMA ---
+2025-11-13 17:09:08,960 - INFO - Kullanıcı Sorgusu: '¿Quién es un buen candidato para la bichectomía?'
+2025-11-13 17:09:08,971 - INFO - Dil tespit edildi: es
+2025-11-13 17:09:11,143 - INFO - AI Yanıtı: 'No tengo información sobre quién es un buen candidato para la bichectomía en el contexto proporcionado. Le sugiero que se ponga en contacto con la clínica a través de su sitio web o WhatsApp para obtener más detalles sobre este tema.'
+2025-11-13 17:09:11,144 - INFO - 127.0.0.1 - - [13/Nov/2025 17:09:11] "POST /chat HTTP/1.1" 200 -
+2025-11-14 03:26:24,145 - INFO - RAG sistemi başlatılıyor... Gömme Modeli: text-embedding-004
+2025-11-14 03:26:24,444 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-14 03:26:24,538 - INFO - Chroma Veritabanı başarıyla yüklendi.
+2025-11-14 03:26:24,541 - INFO - RAG zinciri başarıyla oluşturuldu.
+2025-11-14 03:26:24,572 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.129:5001
+2025-11-14 03:26:24,572 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-14 03:26:42,133 - INFO - 127.0.0.1 - - [14/Nov/2025 03:26:42] "GET / HTTP/1.1" 200 -
+2025-11-14 03:26:44,811 - INFO - --- YENİ SORGULAMA ---
+2025-11-14 03:26:44,811 - INFO - Kullanıcı Sorgusu: '¿Quién es un buen candidato para la bichectomía?'
+2025-11-14 03:26:45,131 - INFO - Dil tespit edildi: es
+2025-11-14 03:26:48,368 - INFO - AI Yanıtı: 'No tengo información sobre quién es un buen candidato para la bichectomía en el contexto proporcionado. Le sugiero que se ponga en contacto con la clínica a través de su sitio web o WhatsApp para obtener más detalles sobre este tema.'
+2025-11-14 03:26:48,370 - INFO - 127.0.0.1 - - [14/Nov/2025 03:26:48] "POST /chat HTTP/1.1" 200 -
+2025-11-14 03:27:14,695 - INFO - --- YENİ SORGULAMA ---
+2025-11-14 03:27:14,696 - INFO - Kullanıcı Sorgusu: '¿Qué es la bichectomía?'
+2025-11-14 03:27:14,707 - INFO - Dil tespit edildi: es
+2025-11-14 03:27:16,515 - INFO - AI Yanıtı: 'No tengo información sobre la bichectomía en el contexto proporcionado. Te sugiero contactar a la clínica a través de su sitio web o WhatsApp para obtener más detalles.'
+2025-11-14 03:27:16,516 - INFO - 127.0.0.1 - - [14/Nov/2025 03:27:16] "POST /chat HTTP/1.1" 200 -
+2025-11-29 22:02:49,061 - INFO - 127.0.0.1 - - [29/Nov/2025 22:02:49] "GET / HTTP/1.1" 200 -
+2025-11-29 23:36:53,976 - INFO - RAG sistemi başlatılıyor... Gömme Modeli: text-embedding-004
+2025-11-29 23:36:54,230 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-29 23:36:54,326 - INFO - Chroma Veritabanı başarıyla yüklendi.
+2025-11-29 23:36:54,329 - INFO - RAG zinciri başarıyla oluşturuldu.
+2025-11-29 23:36:54,376 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.129:5001
+2025-11-29 23:36:54,376 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-29 23:37:02,559 - INFO - 127.0.0.1 - - [29/Nov/2025 23:37:02] "GET / HTTP/1.1" 200 -
+2025-12-11 19:33:55,193 - INFO - RAG sistemi başlatılıyor... Gömme Modeli: text-embedding-004
+2025-12-11 19:33:55,578 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-12-11 19:33:55,715 - INFO - Chroma Veritabanı başarıyla yüklendi.
+2025-12-11 19:33:55,717 - INFO - RAG zinciri başarıyla oluşturuldu.
+2025-12-11 19:33:55,759 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.129:5001
+2025-12-11 19:33:55,759 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-31 01:21:11,064 - INFO - 127.0.0.1 - - [31/Dec/2025 01:21:11] "GET / HTTP/1.1" 200 -
+2026-01-04 17:12:06,865 - INFO - RAG sistemi başlatılıyor... Gömme Modeli: text-embedding-004
+2026-01-04 17:12:08,158 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-01-04 17:12:08,758 - INFO - Chroma Veritabanı başarıyla yüklendi.
+2026-01-04 17:12:08,772 - INFO - RAG zinciri başarıyla oluşturuldu.
