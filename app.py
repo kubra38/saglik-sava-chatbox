@@ -28,7 +28,7 @@ CORS(app)
 
 # KULLANICIDAN ALINAN API ANAHTARI BURAYA YERLEŞTİRİLDİ
 # NOTE: Gerçek API anahtarı burada gösterilmemiştir. Sadece örnek bir değer bırakılmıştır.
-API_KEY = "AIzaSyAGAQhpIsFIOqpSKxJ6cO2bHb0UzaI2CIw"
+API_KEY = "APİ ANAHTARI GİRİLECEK"
 
 if not API_KEY or API_KEY.strip() == "":
     logging.critical("HATA: GEMINI_API_KEY ortam değişkeni bulunamadı veya boş. Lütfen .env dosyasını kontrol edin.")
