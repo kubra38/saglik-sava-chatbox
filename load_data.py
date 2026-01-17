@@ -15,7 +15,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 # --- Sabitler ---
 load_dotenv()
 # KULLANICIDAN ALINAN API ANAHTARI BURAYA YERLEŞTİRİLDİ
-API_KEY = "AIzaSyAGAQhpIsFIOqpSKxJ6cO2bHb0UzaI2CIw"
+API_KEY = "API ANAHTARI EKLENECEK"
 if not API_KEY:
     logging.error("HATA: GEMINI_API_KEY ortam değişkeni bulunamadı. Lütfen .env dosyasını kontrol edin.")
 
